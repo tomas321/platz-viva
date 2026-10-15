@@ -1,0 +1,66 @@
+---
+import Figure from "./Figure.astro";
+import Timeline from "./Timeline.astro";
+import BeforeAfter from "./BeforeAfter.astro";
+import Quiz from "./Quiz.astro";
+import RainDiagram from "./RainDiagram.astro";
+import { Image } from "astro:assets";
+import { image } from "../lib/images";
+import { inline, type Dict, type SectionDef } from "../lib/i18n";
+
+interface Props {
+  def: SectionDef;
+  dict: Dict;
+}
+const { def, dict } = Astro.props;
+const t = (dict.sections as Record<string, any>)[def.id];
+const ui = dict.ui;
+---
+<section id={def.id} class:list={["story", `story--${def.style ?? "plain"}`]} aria-labelledby={`${def.id}-title`}>
+  <h3 id={`${def.id}-title`} class="story__title" set:html={inline(t.title)} />
+
+  {def.quiz && <Quiz quiz={t.quiz} showAnswer={ui.showAnswer} />}
+
+  {def.list && (
+    <div class="checklist">
+      <p class="checklist__title" set:html={inline(t.list.title)} />
+      <ul>{t.list.items.map((i: string) => <li><span set:html={inline(i)} /></li>)}</ul>
+    </div>
+  )}
+
+  <div class="story__body">
+    {t.body.map((p: string) => <p set:html={inline(p)} />)}
+  </div>
+
+  {def.box && (
+    <aside class="memorial-box">
+      <p set:html={inline(t.box.text)} />
+      <blockquote set:html={inline(t.box.quote)} />
+    </aside>
+  )}
+
+  {def.diagram && <RainDiagram d={t.diagram} />}
+
+  {def.images && (
+    <div class:list={["gallery", { "gallery--multi": def.images.length > 1 }]}>
+      {def.images.map((img) => <Figure src={img.src} caption={img.caption ? t.captions[img.src] : undefined} />)}
+    </div>
+  )}
+
+  {def.beforeAfter && (
+    <BeforeAfter
+      before={def.beforeAfter.before}
+      after={def.beforeAfter.after}
+      caption={t.caption}
+      labels={{ before: ui.before, after: ui.after }}
+    />
+  )}
+
+  {def.illustration && (
+    <Image src={image(def.illustration)} alt="" class="illustration" widths={[320, 640]} sizes="(min-width: 48rem) 20rem, 60vw" loading="lazy" />
+  )}
+
+  {def.timeline && <Timeline items={def.timeline} />}
+
+  {t.credits && <p class="credits" set:html={inline(t.credits)} />}
+</section>

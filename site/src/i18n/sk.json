@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "name": "Slovenčina",
+    "htmlLang": "sk",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Živé námestie oživa",
+    "description": "Príbeh Námestia SNP v Bratislave – od stredovekých trhov po obnovu Živého námestia. Digitálna verzia výstavy na námestí.",
+    "skipToContent": "Preskočiť na obsah",
+    "language": "Jazyk",
+    "partHistory": "História námestia",
+    "partToday": "Nové námestie",
+    "timelineTitle": "Ako sa menili názvy Námestia SNP v priebehu vekov",
+    "before": "Pred",
+    "after": "Po",
+    "showAnswer": "Ukázať odpoveď",
+    "sourceNote": "Táto stránka prerozpráva výstavu „Živé námestie oživa“, ktorá je inštalovaná priamo na Námestí SNP v Bratislave.",
+    "backToTop": "Späť hore",
+    "chooseLanguage": "Vyberte jazyk",
+    "photoCredits": "Fotografie pred a po, schéma vodozádržných opatrení a fotografie nového námestia: © Hlavné mesto SR Bratislava (bratislava.sk), foto Marek Velček. Rýchle zlepšenia a historické fotografie z historického výskumu (2016): Živé námestie / Metropolitný inštitút Bratislavy, CC BY-NC-SA 3.0 (foto z roku 1933: Archív mesta Bratislavy; trh v 40. rokoch: zbierka Juraja Horvátha). November 1989: Helena Bakaljarová, Volkskundemuseum Wien, CC0. Kostnica: Kiwiev, Wikimedia Commons, CC0. Ostatné obrázky sú odfotené z výstavy na námestí."
+  },
+  "sections": {
+    "intro": {
+      "kicker": "Živé námestie",
+      "badge": "oživa",
+      "title": "Od oranžových kruhov, po súčasnosť a ešte ďalej",
+      "body": [
+        "O potrebe premeny a zjednotenia centrálneho verejného priestoru zloženého z troch námestí (Námestie SNP, Námestie Nežnej revolúcie a Kamenné námestie) sa hovorilo roky. Jedno z najfrekventovanejších a najvýznamnejších priestranstiev v srdci Bratislavy totiž ešte donedávna pôsobilo skôr neurčitým a nesúrodým dojmom. Avšak projekt Živé námestie priniesol zmenu, vďaka ktorej tu vzniká kvalitný priestor, ktorý si centrum mesta naozaj zaslúži – na začiatku na Námestí SNP a Námestí Nežnej revolúcie, v ďalšej etape príde na rad aj Kamenné námestie. Zámer rekonštrukcie a zjednotenia Živého námestia odštartovala iniciatíva Aliancie Stará tržnica. Následne v roku 2019 vypísalo mesto spolu s Metropolitným inštitútom Bratislavy architektonickú súťaž formou súťažného dialógu."
+      ]
+    },
+    "cityEdge": {
+      "title": "Tu sa kedysi Bratislava končila.",
+      "body": [
+        "Po línii dnešného Námestia SNP sa v stredoveku tiahli mestské hradby. Priestor, ktorý dnes vnímame ako samotné centrum, bol vtedy prakticky **za mestom**. Pred hradbami sa však obchodovalo a práve z týchto trhov sa postupne začal formovať priestor dnešného námestia. Jedno z najstarších známych pomenovaní bolo **Chlebový trh** a už mestská účtovná kniha z roku 1506 spomína pekársku pec pri Laurinskej bráne."
+      ],
+      "captions": {
+        "map-wagner": "Plán mesta Bratislavy, 19. storočie, autor Eduard Wagner, miesto vydania Darmstadt",
+        "engraving-church": "Kostol milosrdných bratov na Námestí SNP, rytina (fotoreprodukcia)."
+      }
+    },
+    "napoleon": {
+      "title": "Malý kúsok veľkých dejín",
+      "body": [
+        "Písal sa rok 1809 a Napoleonove vojská ostreľovali Bratislavu z petržalského brehu. Na mesto vypálili takmer 4 000 striel. Mnohé dopadli na dnešné Námestie SNP. Delostrelecké gule svišťali, domy padali, zdevastovaná bola väčšina námestia.",
+        "Jedna z mála budov, ktorá bombardovanie akoby zázrakom prežila, tu stojí dodnes – kláštor Milosrdných bratov. A nesie si v sebe doteraz spomienku na túto udalosť – jednu z originálnych Napoleonových gúľ. Nie za sklom v múzeu, ale priamo vo fasáde.",
+        "Takže keď budete najbližšie prechádzať cez námestie, skúste ju nájsť. Je to malý kus veľkých dejín, ktorý námestie sleduje už viac než 200 rokov."
+      ],
+      "captions": {
+        "napoleon-ball": "Guľu nájdete zamurovanú vo fasáde nemocnice Milosrdných bratov, vedľa jedného z vchodov, približne dva metre nad zemou."
+      }
+    },
+    "smell": {
+      "title": "Miesto, ktoré bolo cítiť!",
+      "body": [
+        "Samotné názvy jednotlivých častí námestia hovoria veľa o jeho každodennom živote: **Pšeničný trh, Chlebový trh, Zelený trh, Hydinový trh…** Každý utorok a piatok sa tu predávalo ovocie, zelenina, hydina a vajcia. V roku **1879 mesto viacero dovtedajších trhových priestorov administratívne spojilo do jedného Tržného námestia** a koncom 19. storočia sa práve dnešné Živé námestie stalo hlavným trhoviskom Bratislavy. Horný trh bol približne tam, kde je dnes Pamätník SNP, Chlebový trh pred dnešnou Starou tržnicou a Hydinový trh smerom ku Kamennému námestiu.",
+        "A nebolo to práve sterilné centrum. Dobová tlač v roku 1901 opisovala Tržné námestie ako tak špinavé, že topánky návštevníkov boli po prechádzke **„impregnované tekutinou neopísateľného zápachu“**. Práve chaos, hygiena a potreba lepšie zásobovať rastúce mesto boli jednými z dôvodov, prečo Bratislava postavila mestskú tržnicu.",
+        "Stará tržnica sa otvorila v roku **1910**. Vo vnútri mala na približne 1 000 m² **miesto až pre 900 trhovníkov.** Tržnica slúžila svojmu účelu presne 50 rokov. A čo potom? Od roku 1960 v nej boli sklady a ateliéry Slovenskej televízie."
+      ],
+      "captions": {
+        "street-1930s": "Dobový pohľad na námestie so Starou tržnicou.",
+        "market-1928": "Trhové stánky na námestí pred Starou tržnicou."
+      }
+    },
+    "chicago": {
+      "title": "„Chicago“ v Bratislave",
+      "body": [
+        "Medzivojnové obdobie prinieslo námestiu niekoľko stavieb, ktoré dodnes definujú centrum mesta. V krátkom období tu vyrástli 4 výrazné nové budovy: Mestská sporiteľňa (budova dnešnej Slovenskej sporiteľne na rohu Štúrovej a Dunajskej), Družstevné domy (oproti budove Starej tržnice), Brouk a Babka (budova „starého“ obchodného domu Dunaj) a Manderlov dom („Manderlák“).",
+        "V roku 1936 tu vyrástol Manderlák – prvý bratislavský „mrakodrap“. Mal 45 metrov a vznikol pre podnikateľa a mäsiara Rudolfa Manderlu, ktorý sa údajne inšpiroval Chicagom. Na prízemí mal mäsiarstvo, neskôr tam fungovala aj populárna vývarovňa Satinských a Café Grand, kde sa stretávala bratislavská elita.",
+        "Aj Mestská sporiteľňa Juraja Tvarožka bola na svoju dobu architektonickou špecialitkou: išlo o prvú budovu na Slovensku so **sklenenou fasádou zavesenou na železobetónovom skelete** a stavba stojí na 584 železobetónových pilótach."
+      ],
+      "captions": {
+        "manderlak-1949": "Bratislavské Chicago – Manderlák, v pozadí trh pred Starou tržnicou. 1949",
+        "brouk-plan-1935": "Prvý obchodný dom v Bratislave Bohuslav Brouk, architekt Christian Ludwig, rok 1935",
+        "brouk-night": "Brouk a Babka/Bohuslav Brouk vedel zažiariť aj po záverečnej."
+      }
+    },
+    "stalin": {
+      "title": "Námestie, na ktorom si Stalin držal gate…",
+      "body": [
+        "Po druhej svetovej vojne sa priestor začal meniť nielen architektonicky, ale aj ideologicky.",
+        "V roku 1949 došlo k významnému kroku – osadeniu Stalinovej sochy. Bola tu vybudovaná namiesto fontány Karolíny Augusty, ktorá na mieste stála od roku 1828. Námestie, ktoré už od roku 1945 nieslo Stalinovo meno, dostalo ešte silnejší ideologický nádych práve, keď tu pribudla aj jeho monumentálna socha. Socha sa tu ale neohriala dlho. Odstránili ju v auguste 1962 v rámci destalinizácie.",
+        "Zachovala sa pritom skvelá miestna historka: z určitého uhla vraj Stalin vyzeral, akoby si rukou držal nohavice. Bratislavčania si preto robili srandu, že **„Stalin si drží gate, lebo na námestí zrušili verejné WC.“**"
+      ],
+      "captions": {
+        "stalin-workshop": "Robotník a odborný dohľad pracujúci na stavbe pomníka J. V. Stalina.",
+        "stalin-scaffold": "To, či si držal skutočne gate, ostane navždy záhadou."
+      }
+    },
+    "kamenne": {
+      "title": "Od Kamenného námestia po Kyjevské a späť",
+      "body": [
+        "Názov „Kamenné“ bol doslovný. Domy v okolí tohto pôvodne malinkého námestia patrili kamenárskej rodine **Rumpelmayerovcov**, ktorá tu na nádvorí skladovala a opracúvala kamene a stĺpy. Odtiaľ názvy Steinmetzplatz, Steinplatz a napokon Kamenné námestie.",
+        "Najväčšia zmena prišla v 60. rokoch. V rokoch **1962 až 1965** bola pôvodná bloková zástavba Kamenného námestia zbúraná. Zmizli domy, obchody, Hotel Rudolf či známe Neurathovo železiarstvo a uvoľnilo sa miesto pre úplne nový modernistický komplex.",
+        "V roku 1960 prebehla súťaž na nové obchodno-spoločenské centrum. Návrh vtedy iba približne tridsaťročného architekta **Ivana Matušíka** priniesol Prior a neskôr Hotel Kyjev. Prior vznikal v rokoch 1964 – 1968, hotel bol dokončený v roku 1973. Priestor v tom čase dostal názov **Kyjevské námestie**, podľa partnerského mesta Bratislavy; názov Kamenné námestie sa mu vrátil až v roku 1990.",
+        "Matušíkov komplex bol pritom vo svojej dobe experimentom – ako sám spomínal, architekti vtedy v Československu **hľadali, ako má vyzerať moderný obchodný dom.** A našli.",
+        "Ambície boli ešte omnoho väčšie. Špitálska sa mala premeniť na široký bulvár pokračujúci smerom ku Krížnej a ďalšie historické bloky mali zmiznúť. Plány sa však nikdy nedokončili. Preto je dodnes v okolí cítiť stret dvoch miest: starého kompaktného centra a socialistickej predstavy otvoreného moderného mesta."
+      ],
+      "captions": {
+        "may-day": "Oslavy 1. mája. Sprievod pred Kostolom Milosrdných bratov s lekárňou na Námestí SNP.",
+        "lower-square-1933": "Dolná časť Námestia SNP. V popredí trafika, vľavo železiarstvo Neurath a hotel Rudolf (zbúrané počas stavby OD Prior) a napravo dodnes zachované domy. 1933",
+        "spitalska": "Špitálska ulica, pohľad z Námestia SNP. Vpravo dom, v ktorom sa nachádza národný podnik Zdroj, za ním Kamenné námestie, vľavo Zväz roľníckych vzájomných pokladníc."
+      }
+    },
+    "memorial1974": {
+      "title": "1974: Pamätník, ktorý nanovo definoval hornú časť námestia",
+      "body": [
+        "V roku 1974, pri 30. výročí SNP, bol odhalený dnešný Pamätník SNP. Pôvodne pri ňom boli aj tri horáky symbolizujúce večný oheň.",
+        "Tak sa približne v priebehu jednej dekády vytvorila podoba územia, ktorú Bratislavčania poznali ďalších päťdesiat rokov: na jednom konci modernistický Prior a Kyjev, na druhom monumentálny Pamätník SNP."
+      ]
+    },
+    "revolution": {
+      "title": "A potom sa tu opäť písali dejiny",
+      "body": [
+        "Názov Námestie SNP sa ukázal takmer prorocký: priestor vytvorený stáročiami obchodu a prestavaný režimami sa opäť stal miestom občianskeho a politického života.",
+        "S novembrovými udalosťami roku 1989 sa dnes spája aj pamätná tabuľa na budove Milosrdných bratov. Jej text pripomína, že práve na tomto mieste sa ľudia rozhodli „vziať zodpovednosť za budúcnosť do svojich rúk“ a ukončiť komunistický režim. Miesto, kde Bratislava v Novembri 89 volala po slobode, dostalo pri 30. výročí týchto udalostí meno Námestie Nežnej revolúcie.",
+        "A to je možno na celom území najzaujímavejšie. Po stáročia menilo názvy, funkcie aj podobu, ale jedna vec zostávala: bolo miestom, kde sa Bratislavčania stretávali. Najskôr kvôli chlebu, zelenine a hydine. Neskôr za obchodom a kávou. Potom na politických manifestáciách a demonštráciách. A ten príbeh nekončí…"
+      ],
+      "captions": {
+        "november-1989": "November 1989"
+      }
+    },
+    "whatNext": {
+      "title": "A čo potom?",
+      "body": [
+        "Slobodu sme si vyštrngali, námestie si však svoju novú podobu ešte len hľadalo. V 90. rokoch tu bez väčšej vízie pokračovalo menšie asfaltovacie baroko a postupne vznikal aj bizarný materiálový vzorkovník. Až kým…"
+      ]
+    },
+    "circles": {
+      "title": "Na začiatku boli kruhy…",
+      "quiz": {
+        "question": "Slávne oranžové kruhy mali slúžiť ako:",
+        "options": [
+          "navigácia pre prípadnú mimozemskú návštevu",
+          "jasne ukázať peším nový priestor, ktorý môžu využívať",
+          "mega piškvorky pre nenáročných"
+        ],
+        "answer": 1
+      },
+      "body": [
+        "Áno, Bé. Bé je správne. Oranžové kruhy mali jednoducho zdôrazniť, ako sa dá priestor využívať po novom – a ešte bez jediného bagra im dať malý náhľad do budúcnosti. Na námestie, ktoré bude väčšie, jednotnejšie a bude oveľa viac fungovať ako skutočné námestie. Kým sa však mohlo začať stavať, čakala nás ešte zložitá cesta a tak sa kruhy zdržali dlhšie, ako sme pôvodne plánovali.",
+        "Začali sme práve rýchlymi urbanistickými vylepšeniami, takzvanými „quick-wins“. Na Klobučníckej pribudli nové stromy a na Námestí SNP sme rozšírili plochy, ktoré mohli bezpečne využívať peší. Popritom vznikali analýzy, prieskumy, dotazníky, simulácie a rozhovory s ľuďmi a aktérmi, ktorí priestor každodenne používajú.",
+        "Potom prišla medzinárodná architektonická súťaž formou súťažného dialógu – úplná prvá na Slovensku. Z nej vzišiel víťazný návrh tímu Atelier LOIDL v spolupráci s dopravnými inžiniermi BPR Dr. Schäpertöns Consult.",
+        "Ich návrh mal jednoduchú ambíciu: dostať do centra kvalitu, ktorú si zaslúži. Viac priestoru pre ľudí. Menej bariér. Kvalitné kamenné povrchy. Viac zelene a vody v území. Potom prišli na rad geologické a pamiatkové prieskumy, projektovanie, povoľovanie aj výber zhotoviteľa.",
+        "Nasledovali roky menej viditeľnej, ale nevyhnutnej práce: geologicko-inžinierske a pamiatkové prieskumy, dopracovanie architektonického návrhu do realizačného projektu aj výber zhotoviteľa.",
+        "**V októbri 2025 sme začali stavať. A dnes je prvá etapa hotová.**"
+      ],
+      "caption": "Rýchle zlepšenia na Námestí SNP: namiesto parkovania na chodníku priestor pre ľudí.",
+      "captions": {
+        "orange-circles": "Oranžové kruhy boli dočasným zásahom inšpirovaným princípmi taktického urbanizmu, ktoré využívajú mestá po celom svete – od New Yorku po Miláno. Farbou a mobiliárom dokázali ešte pred veľkou rekonštrukciou ukázať, že priestor má novú funkciu. Mimochodom, dielo Výkričník od Ruda Sikoru síce s kruhmi priamo nesúvisí, no Živé námestie rozhodne oživilo."
+      }
+    },
+    "barriers": {
+      "title": "Menej bariér a zjednotenejší priestor",
+      "body": [
+        "Na námestí bol kedysi takmer vzorkovník povrchov – cesta je štěrk a prach a… asfalt, betón, rôzne dlažby, obrubníky a hlavne výškové rozdiely, ktoré tisícom ľudí denne komplikovali život.",
+        "Pustili sme sa preto do zjednocovania. Betón a asfalt sme vo veľkej miere nahradili kvalitnou žulovou dlažbou a povrchy sme dostali čo najviac do jednej úrovne. Odstránili sme zbytočné bariéry a vytvorili nové, prirodzenejšie pešie prepojenia.",
+        "Nový chodník vedie napríklad popred Pamätník SNP. Lepšie sme prepojili Špitálsku ulicu so zastávkou Centrum oproti Starej tržnici. A celé námestie je dnes jednoduchšie použiteľné pre ľudí na vozíku, rodičov s kočíkom aj kohokoľvek, kto týmto miestom, jednoducho, prechádza.",
+        "V centre mesta by totiž nemalo byť dobrodružstvom dostať sa z bodu A do bodu B."
+      ],
+      "captions": {
+        "fewer-barriers": "Menej bariér, viac priestoru pre ľudí."
+      }
+    },
+    "greenery": {
+      "title": "Viac tieňa. Viac zelene. Viac života.",
+      "list": {
+        "title": "V prvej etape pribudlo:",
+        "items": [
+          "**250 m³ prekoreňovacích buniek**, ktoré dávajú stromom viac priestoru pre korene aj lepší prístup k vlahe,",
+          "**približne 130 m² trávnatých plôch**,",
+          "**406 m² podsadieb**,",
+          "**29 nových stromov** – napríklad brestovce, jasene či sofora japonská,",
+          "**okrasné cibuľoviny**,",
+          "a **nový zelený ostrov** na rohu Námestia SNP a Špitálskej."
+        ]
+      },
+      "body": [
+        "Rozšírili sme zelené plochy, zväčšili priestor pre korene existujúcich stromov, doplnili podsadby a vysadili nové stromy aj okrasné cibuľoviny. A asi ste postrehli, že na rohu Námestia SNP a Špitálskej vznikol úplne nový zelený ostrov.",
+        "Niektoré pôvodné stromy sme museli pre kolízie so sieťami či okolitými stavbami presadiť inde. Výsledok je však jednoduchý: stromov je tu dnes viac než pred rekonštrukciou."
+      ],
+      "captions": {
+        "tree-planting": "Tieň, ktorý máme dnes, zasadili generácie pred nami. Na nás je, aby sme v tom pokračovali. Pre dnešné mesto, ale aj pre budúcnosť.",
+        "tree-street": "Kvalitné mesto je také, v ktorom sa dobre pohybuje aj dobre zastavuje napríklad v tieni stromov."
+      }
+    },
+    "underground": {
+      "title": "To najdôležitejšie sa často skrýva pod povrchom",
+      "body": [
+        "Pod námestím sme vybudovali celý nový systém na zachytávanie a postupné vsakovanie dažďovej vody. Použili sme vodopriepustné povrchy a podkladové vrstvy, vodu odvádzame aj priamo k stromom a pod zemou sme osadili veľké retenčné nádrže. Dažďová voda tak neodchádza zbytočne do kanalizácie, ale môžeme ju využiť tam, kde ju mesto potrebuje – napríklad pre zeleň. Pri trávnatých plochách sme vytvorili aj podzemné vsakovacie rigoly, ktoré pomáhajú vode postupne prenikať späť do pôdy.",
+        "**Aj o tom je moderné námestie: nielen dobre vyzerá, ale lepšie zvláda horúčavy aj prudké dažde.**"
+      ]
+    },
+    "rain": {
+      "title": "A ako to funguje, keď na Námestí SNP zaprší?",
+      "body": [
+        "Dažďová voda steká z povrchu do potrubia pod námestím a odtiaľ do veľkej retenčnej nádrže v jeho spodnej časti. Tam ju zachytíme a necháme postupne vsakovať späť do zeme.",
+        "Ak je vody priveľa a pôda ju nestíha prijímať, čerpadlo ju pošle späť do hornej časti systému. Odtiaľ sa cez perforované potrubie rozvedie pod zelené plochy, kde dostane ďalší priestor a čas vsiaknuť.",
+        "Až keď ani to nestačí, prebytočná voda bezpečne odtečie do dažďovej kanalizácie.",
+        "Namiesto toho, aby sme dážď z centra čo najrýchlejšie odviedli preč, dávame mu šancu zostať súčasťou mesta."
+      ],
+      "diagram": {
+        "title": "Ako funguje dažďový systém pod námestím",
+        "irrigation": "Zavlažovanie mestskej zelene dažďovou vodou",
+        "treePits": "Stromové jamy s podsadbami",
+        "permeableSurface": "Vodopriepustné spevnené plochy",
+        "permeableConcrete": "Vodopriepustný betón ako podkladová vrstva",
+        "pump": "Čerpadlo",
+        "tank": "Retenčná nádrž na zachytávanie dažďovej vody"
+      }
+    },
+    "stops": {
+      "title": "Zastávky, na ktorých sa lepšie nastupuje",
+      "body": [
+        "**Malý krok pre človeka… a presne o ten tu išlo.** Konečne tu stačí malý krok. Konečne je toto nástupisko na Špitálskej bezbariérové a bezpečné. Na Špitálskej sme na mieste nevyužívaného koľajiska vybudovali nový električkový ostrovček zastávky Centrum. Cestujúci tak už viac nemusia nastupovať a vystupovať priamo do vozovky – majú vlastný bezpečný priestor na čakanie a pohodlnejší, bezbariérovejší nástup do električky.",
+        "Obnovili sme však aj priestor zastávok Centrum pred Tržnicou. Asfalt nahradila žula, zvýšili sme nástupné hrany a nástupištia bezbariérovo prepojili s námestím. Pribudli nové prístrešky s osvetlením, informačné tabule, automaty na lístky, vodiace pásy aj lavičky."
+      ],
+      "caption": "Bezpečnejšie nastupovanie, menej bariér, viac dôstojnosti. Aj takto vyzerá mesto, ktoré myslí na každého."
+    },
+    "memorialSpace": {
+      "title": "Pamätníku SNP sme vrátili priestor",
+      "body": [
+        "Úcta k posolstvu SNP nemá byť len o venci raz do roka. Aj preto sme obnovili Živé námestie a dali dôstojnú podobu priestoru okolo Pamätníka SNP – tak, aby bol viditeľnejší, prístupnejší a aby bol prirodzenou súčasťou každodenného života v meste. Popred pamätník sme vytvorili nový prirodzený chodník, rozšírili priestor pre peších a odstránili kolmé parkovanie. Pretože historická pamäť nemá stáť niekde bokom od života. Má byť jeho súčasťou."
+      ],
+      "caption": "Pamätník SNP je dnes prístupnejší a prirodzenejšie patrí k námestiu."
+    },
+    "churchOutline": {
+      "title": "Keď naprší a neuschne, objaví sa minulosť",
+      "body": [
+        "Aj na Námestí Nežnej revolúcie myslíme na históriu, ktorá tvorí dôležitú súčasť nášho mesta. Architektonický návrh tu preto od začiatku počítal so špeciálnym typom dlažby zobrazujúcim pôdorys Kostola sv. Vavrinca, ktorý sa v minulosti práve na tomto mieste nachádzal.",
+        "Tento zaujímavý detail si najlepšie všimnete po daždi: voda zostáva v zárezoch dlažby o niečo dlhšie a na povrchu námestia na chvíľu vykreslí lesklý obrys niekdajšieho kostola.",
+        "Miesto, ktoré zaniklo pred stáročiami, sa tak po každom daždi na chvíľu vráti."
+      ]
+    },
+    "stay": {
+      "title": "Námestie nie je len miesto, cez ktoré sa prechádza",
+      "body": [
+        "Doplnili sme nové bratislavské lavičky, koše aj cyklostojany. Vymenili sme trakčné stožiare, ale aj verejné osvetlenie, aby bol tento priestor príjemný a bezpečný aj večer, a upratali množstvo drobných prvkov, ktoré spolu rozhodujú o tom, či verejný priestor pôsobí príjemne alebo chaoticky.",
+        "Chceme totiž, aby ste cez centrum nemuseli iba prejsť. Chceme, aby ste v ňom mali dôvod zostať."
+      ],
+      "captions": {
+        "lawn-benches": "Na námestí nepribudli len stromy, ale celý nový vegetačný systém. Okrem 29 stromov pribúdajú aj podsadby a trávnaté plochy, ktoré pomáhajú ochladzovať priestor a zadržiavať vodu."
+      }
+    },
+    "medieval": {
+      "title": "Stredovek neskončil, stredovek trvá…",
+      "body": [
+        "Pod dnešným námestím sa totiž dodnes ukrýva kus stredovekej Bratislavy. A práve tu sa pri jeho obnove stretáva budúcnosť mesta s jeho minulosťou.",
+        "Už v stredoveku tu, tesne za mestskými hradbami, stál farský kostol sv. Vavrinca. Okolo neho sa rozprestieral cintorín a jeho súčasťou bola aj Kaplnka sv. Jakuba s kostnicou. Celý areál patril k významnému predmestiu vtedajšej Bratislavy. Kostol aj nadzemnú časť kaplnky zbúrali v roku 1529 ako súčasť obranných opatrení pred hroziacim tureckým útokom.",
+        "**Pod zemou však veľká časť tohto príbehu zostala.** Kostnica aj cintorín sa využívali ešte celé stáročia, do zákazu pochovávania v mestách v 18. storočí. Ich pozostatky dnes ležia priamo pod nohami tisícov ľudí, ktorí denne prechádzajú Námestím SNP. Súčasný sklenený prístrešok pritom chráni len časť archeologického náleziska.",
+        "Pri niekdajšej Kaplnke sv. Jakuba preto prebiehali a aj budú prebiehať práce, ktorých časť nie je zvonka viditeľná, no práve tieto práce vytvárajú predpoklady na to, aby sa tu v budúcnosti mohol vybudovať nový pavilón zodpovedajúci významu tohto náleziska so všetkým čo k tomu patrí – s bezbariérovým prístupom, návštevníckou trasou a expozíciou, v ktorej by hlavnými exponátmi zostali samotné stredoveké konštrukcie. Exponáty stredovekých konštrukcií si však aj už dnes zaslúžia dôstojnejšiu prezentáciu, a tak mesto pristúpilo už teraz k renovácii existujúceho krycieho objektu – vymenili sme zdegradovanú strechu, pôvodné zasklenie nahradili bezpečnostné sklá, obnovili sme omietky, pribudla nová elektroinštalácia, osvetlenie a nerezové prvky, ktoré prístup do kostnice zjednodušujú a robia bezpečnejším.",
+        "Cieľom je túto vrstvu mesta nielen chrániť, ale aj kvalitne sprístupniť a cez ňu rozprávať príbeh Bratislavy, ktorá tu bola dávno pred nami."
+      ],
+      "box": {
+        "text": "Uprostred tejto obnovy je aj miesto, ktoré má oveľa hlbší význam – Pamätník Jána Kuciaka a Martiny Kušnírovej. Počas rekonštrukcie bol dočasne uskladnený, aby sa následne mohol vrátiť na svoje pôvodné miesto. To je dnes nové a dôstojnejšie. Pretože námestie sa môže meniť. Spomienka na Jána a Martinu však musí zostať jeho pevnou súčasťou.",
+        "quote": "„Neďakuj, pamätaj!“ Takto Ján Kuciak zvykol odpovedať priateľom, keď mu ďakovali za pomoc. Dnes túto vetu nesie aj pamätník Jána a Martiny na Námestí SNP."
+      },
+      "captions": {
+        "ossuary": "Kaplnka sv. Jakuba ukrýva pozostatky najstaršej sakrálnej stavby v Bratislave z 11. storočia. Súčasťou kaplnky je aj kostnica s tisíckami ľudských kostí a lebiek."
+      }
+    },
+    "circleCloses": {
+      "title": "A kruh sa uzatvára…",
+      "body": [
+        "Začali sme oranžovými kruhmi, ktoré mali ukázať, čím tento priestor môže byť. Dnes už tú predstavu nemusíme maľovať na asfalt.",
+        "Prvá veľká etapa je hotová, druhá etapa – Kamenné námestie – je ešte pred nami. Odteraz bude najdôležitejšou súčasťou Živého námestia to, čo sa nedá naprojektovať ani postaviť: **život, ktorý mu dáte vy.**"
+      ],
+      "caption": "Kvalitné centrum mesta nie je luxus. Je to štandard, ktorý si Bratislava zaslúži.",
+      "credits": "Za podklady a fotografie ďakujeme OZ Aliancia Stará tržnica, OZ Bratislavské rožky, fotografovi Marekovi Velčekovi, Mestskému ústavu ochrany pamiatok a Archívu Mesta Bratislavy."
+    }
+  }
+}

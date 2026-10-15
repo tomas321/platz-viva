@@ -1,0 +1,19 @@
+---
+import Figure from "./Figure.astro";
+import { inline } from "../lib/i18n";
+
+interface Props {
+  before: string;
+  after: string;
+  caption?: string;
+  labels: { before: string; after: string };
+}
+const { before, after, caption, labels } = Astro.props;
+---
+<figure class="before-after">
+  <div class="before-after__pair">
+    <Figure src={before} label={labels.before} sizes="(min-width: 34rem) 20rem, 100vw" />
+    <Figure src={after} label={labels.after} sizes="(min-width: 34rem) 20rem, 100vw" />
+  </div>
+  {caption && <figcaption class="chip" set:html={inline(caption)} />}
+</figure>

@@ -1,0 +1,29 @@
+---
+import { Picture } from "astro:assets";
+import { image } from "../lib/images";
+import { inline } from "../lib/i18n";
+
+interface Props {
+  src: string;
+  caption?: string;
+  label?: string;
+  sizes?: string;
+  eager?: boolean;
+}
+const { src, caption, label, sizes = "(min-width: 48rem) 40rem, 100vw", eager = false } = Astro.props;
+---
+<figure class="photo">
+  <div class="photo__frame">
+    <Picture
+      src={image(src)}
+      formats={["avif", "webp"]}
+      widths={[360, 560, 800]}
+      sizes={sizes}
+      alt=""
+      loading={eager ? "eager" : "lazy"}
+      decoding="async"
+    />
+    {label && <span class="chip chip--label">{label}</span>}
+  </div>
+  {caption && <figcaption class="chip" set:html={inline(caption)} />}
+</figure>

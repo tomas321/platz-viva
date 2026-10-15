@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "name": "English",
+    "htmlLang": "en",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Živé námestie comes alive",
+    "description": "The story of SNP Square in Bratislava, from medieval markets to the Živé námestie (Living Square) renewal. A digital version of the exhibition on the square.",
+    "skipToContent": "Skip to content",
+    "language": "Language",
+    "partHistory": "The history of the square",
+    "partToday": "The new square",
+    "timelineTitle": "How the name of SNP Square changed over the centuries",
+    "before": "Before",
+    "after": "After",
+    "showAnswer": "Show the answer",
+    "sourceNote": "This page retells the outdoor exhibition “Živé námestie oživa” (The Living Square comes alive), installed on SNP Square in Bratislava. Translated from Slovak.",
+    "backToTop": "Back to top",
+    "chooseLanguage": "Choose a language",
+    "photoCredits": "Before and after photos, the rainwater diagram and the new-square photos: © City of Bratislava (bratislava.sk), photos by Marek Velček. Quick wins and historic photos from the 2016 historical study: Živé námestie / Metropolitan Institute of Bratislava, CC BY-NC-SA 3.0 (1933 photo: Bratislava City Archives; 1940s market: collection of Juraj Horváth). November 1989: Helena Bakaljarová, Volkskundemuseum Wien, CC0. Ossuary: Kiwiev, Wikimedia Commons, CC0. Other images are photographed from the exhibition on the square."
+  },
+  "sections": {
+    "intro": {
+      "kicker": "Živé námestie",
+      "badge": "comes alive",
+      "title": "From orange circles to the present day, and beyond",
+      "body": [
+        "For years people talked about the need to transform and unite the central public space made up of three squares: SNP Square (Square of the Slovak National Uprising), Gentle Revolution Square and Kamenné Square. Until recently, one of the busiest and most important places in the heart of Bratislava felt vague and patchwork. The Živé námestie (Living Square) project changed that, creating a quality space the city centre truly deserves. It began with SNP Square and Gentle Revolution Square; Kamenné Square comes next. The plan to rebuild and unite the Living Square was started by the Old Market Hall Alliance (Aliancia Stará tržnica). In 2019 the city and the Metropolitan Institute of Bratislava then launched an architectural competition in the form of a competitive dialogue."
+      ]
+    },
+    "cityEdge": {
+      "title": "This is where Bratislava once ended.",
+      "body": [
+        "In the Middle Ages the city walls ran along the line of today's SNP Square. The space we now think of as the very centre was then practically **outside the city**. But people traded in front of the walls, and it was these markets that gradually shaped today's square. One of its oldest known names was **Bread Market**, and the city's account book from 1506 already mentions a baker's oven by the Laurinska Gate."
+      ],
+      "captions": {
+        "map-wagner": "Map of Bratislava, 19th century, by Eduard Wagner, published in Darmstadt",
+        "engraving-church": "Church of the Brothers of Mercy on SNP Square, engraving (photo reproduction)."
+      }
+    },
+    "napoleon": {
+      "title": "A small piece of big history",
+      "body": [
+        "It was 1809, and Napoleon's troops were shelling Bratislava from the Petržalka bank of the Danube. They fired almost 4,000 rounds at the city. Many landed on today's SNP Square. Cannonballs whistled, houses collapsed, and most of the square was devastated.",
+        "One of the few buildings that survived the bombardment, almost by miracle, still stands here: the monastery of the Brothers of Mercy. And it still carries a reminder of that day: one of Napoleon's original cannonballs. Not behind glass in a museum, but right in the façade.",
+        "So the next time you cross the square, try to find it. It's a small piece of big history that has been watching over the square for more than 200 years."
+      ],
+      "captions": {
+        "napoleon-ball": "You'll find the cannonball walled into the façade of the Brothers of Mercy hospital, next to one of the entrances, about two metres above the ground."
+      }
+    },
+    "smell": {
+      "title": "A place you could smell!",
+      "body": [
+        "The names of the different parts of the square say a lot about its daily life: **Wheat Market, Bread Market, Green Market, Poultry Market…** Every Tuesday and Friday fruit, vegetables, poultry and eggs were sold here. In **1879 the city merged several of these market areas into a single Market Square**, and by the end of the 19th century today's Living Square had become Bratislava's main marketplace. The Upper Market stood roughly where the SNP Memorial is today, the Bread Market in front of today's Old Market Hall, and the Poultry Market towards Kamenné Square.",
+        "It was hardly a sterile city centre. In 1901 the press described Market Square as so dirty that visitors' shoes came back from a stroll **“impregnated with a liquid of indescribable smell”**. The chaos, hygiene and the need to feed a growing city were among the reasons Bratislava built a covered market hall.",
+        "The Old Market Hall opened in **1910**. Inside, on about 1,000 m², there was **room for up to 900 traders.** It served its purpose for exactly 50 years. And then? From 1960 it housed storerooms and studios of Slovak Television."
+      ],
+      "captions": {
+        "street-1930s": "A period view of the square with the Old Market Hall.",
+        "market-1928": "Market stalls on the square in front of the Old Market Hall."
+      }
+    },
+    "chicago": {
+      "title": "“Chicago” in Bratislava",
+      "body": [
+        "The years between the wars gave the square several buildings that still define the city centre. Four striking new buildings went up in a short time: the City Savings Bank (today's Slovenská sporiteľňa building on the corner of Štúrova and Dunajská), the Cooperative Houses (opposite the Old Market Hall), Brouk a Babka (the “old” Dunaj department store) and Manderla House, known as the “Manderlák”.",
+        "In 1936 the Manderlák rose here as Bratislava's first “skyscraper”. It was 45 metres tall and was built for the businessman and butcher Rudolf Manderla, who was supposedly inspired by Chicago. He had his butcher's shop on the ground floor; later it housed the popular Satinský canteen and Café Grand, where Bratislava's elite used to meet.",
+        "Juraj Tvarožek's City Savings Bank was also an architectural novelty for its time: it was the first building in Slovakia with a **glass façade hung on a reinforced-concrete frame**, and it stands on 584 reinforced-concrete piles."
+      ],
+      "captions": {
+        "manderlak-1949": "Bratislava's Chicago: the Manderlák, with the market in front of the Old Market Hall behind it. 1949",
+        "brouk-plan-1935": "Bohuslav Brouk, the first department store in Bratislava, architect Christian Ludwig, 1935",
+        "brouk-night": "Brouk a Babka (Bohuslav Brouk) knew how to shine even after closing time."
+      }
+    },
+    "stalin": {
+      "title": "The square where Stalin held up his trousers…",
+      "body": [
+        "After the Second World War the space began to change not only architecturally, but ideologically too.",
+        "In 1949 came a major step: a statue of Stalin was put up. It replaced the Caroline Augusta fountain, which had stood on the spot since 1828. The square had carried Stalin's name since 1945, and its ideological tone grew even stronger once his monumental statue arrived. But the statue didn't stay long. It was removed in August 1962 as part of de-Stalinisation.",
+        "A great local story survives: from a certain angle, Stalin supposedly looked as if he were holding up his trousers with his hand. So people in Bratislava joked that **“Stalin is holding up his trousers because they closed the public toilet on the square.”**"
+      ],
+      "captions": {
+        "stalin-workshop": "A worker and supervisors working on the monument to J. V. Stalin.",
+        "stalin-scaffold": "Whether he really was holding up his trousers will remain a mystery forever."
+      }
+    },
+    "kamenne": {
+      "title": "From Kamenné Square to Kyiv Square, and back",
+      "body": [
+        "The name “Kamenné” (Stone) was meant literally. The houses around this originally tiny square belonged to the **Rumpelmayer** family of stonemasons, who stored and worked stone and columns in their courtyard. Hence the names Steinmetzplatz, Steinplatz and finally Kamenné námestie.",
+        "The biggest change came in the 1960s. Between **1962 and 1965** the original blocks of Kamenné Square were demolished. Houses, shops, Hotel Rudolf and the well-known Neurath hardware store disappeared, making room for a completely new modernist complex.",
+        "In 1960 a competition was held for a new shopping and social centre. The design by **Ivan Matušík**, then an architect of only about thirty, brought the Prior department store and later Hotel Kyjev. Prior was built between 1964 and 1968, and the hotel was finished in 1973. At that time the space was named **Kyiv Square** after Bratislava's twin city; it only got the name Kamenné námestie back in 1990.",
+        "Matušík's complex was an experiment in its day. As he himself recalled, architects in Czechoslovakia were then **searching for what a modern department store should look like.** And they found it.",
+        "The ambitions were much bigger still. Špitálska Street was to become a wide boulevard continuing towards Krížna, and more historic blocks were to disappear. But the plans were never completed. That's why you can still feel two cities clashing here: the old, compact centre and the socialist vision of an open, modern city."
+      ],
+      "captions": {
+        "may-day": "May Day celebrations. A procession in front of the Church of the Brothers of Mercy with its pharmacy on SNP Square.",
+        "lower-square-1933": "The lower part of SNP Square. In front, a tobacconist's kiosk; on the left, the Neurath hardware store and Hotel Rudolf (demolished when the Prior department store was built); on the right, houses that still stand today. 1933",
+        "spitalska": "Špitálska Street seen from SNP Square. On the right, the building of the national enterprise Zdroj, with Kamenné Square behind it; on the left, the Union of Farmers' Mutual Savings Banks."
+      }
+    },
+    "memorial1974": {
+      "title": "1974: the memorial that redefined the upper square",
+      "body": [
+        "In 1974, on the 30th anniversary of the Slovak National Uprising (SNP), today's SNP Memorial was unveiled. Originally it also had three burners symbolising an eternal flame.",
+        "So within about a decade the area took on the shape that people in Bratislava would know for the next fifty years: the modernist Prior and Kyjev at one end, the monumental SNP Memorial at the other."
+      ]
+    },
+    "revolution": {
+      "title": "And then history was written here again",
+      "body": [
+        "The name SNP Square turned out to be almost prophetic: a space shaped by centuries of trade and rebuilt by regimes became a place of civic and political life once more.",
+        "A memorial plaque on the Brothers of Mercy building is linked to the events of November 1989. Its text recalls that it was right here that people decided to “take responsibility for the future into their own hands” and end the communist regime. On the 30th anniversary of those events, the place where Bratislava called for freedom in November '89 was named Gentle Revolution Square.",
+        "And that may be the most interesting thing about the whole area. Over the centuries it changed its names, its uses and its look, but one thing stayed the same: it was where people in Bratislava met. First for bread, vegetables and poultry. Later for shopping and coffee. Then at political rallies and demonstrations. And the story isn't over…"
+      ],
+      "captions": {
+        "november-1989": "November 1989"
+      }
+    },
+    "whatNext": {
+      "title": "And then what?",
+      "body": [
+        "We jingled our keys and won our freedom, but the square was still searching for its new shape. Through the 1990s, with no real vision, a minor “asphalt baroque” carried on and a bizarre sample book of materials slowly took shape. Until…"
+      ]
+    },
+    "circles": {
+      "title": "In the beginning there were circles…",
+      "quiz": {
+        "question": "The famous orange circles were meant to serve as:",
+        "options": [
+          "navigation for possible visitors from outer space",
+          "a clear way to show pedestrians the new space they could use",
+          "giant noughts and crosses for the easily pleased"
+        ],
+        "answer": 1
+      },
+      "body": [
+        "Yes, B. B is correct. The orange circles were simply meant to highlight the new ways the space could be used, and to give people a small preview of the future without a single excavator. A preview of a square that would be bigger, more unified and would work much more like a real square. But before construction could start, there was still a complicated road ahead, so the circles stayed longer than we had planned.",
+        "We started with quick urban improvements, so-called “quick wins”. New trees appeared on Klobučnícka Street, and on SNP Square we widened the areas pedestrians could use safely. Meanwhile we carried out analyses, surveys, questionnaires, simulations and interviews with the people and organisations who use the space every day.",
+        "Then came an international architectural competition in the form of a competitive dialogue, the very first in Slovakia. The winning design came from Atelier LOIDL, working with the traffic engineers BPR Dr. Schäpertöns Consult.",
+        "Their design had a simple ambition: to bring the city centre the quality it deserves. More space for people. Fewer barriers. Quality stone surfaces. More greenery and water. Then came geological and heritage surveys, design, permits and choosing a contractor.",
+        "There followed years of less visible but essential work: geotechnical and heritage surveys, turning the architectural design into a construction project, and choosing a contractor.",
+        "**In October 2025 we started building. And today the first stage is finished.**"
+      ],
+      "caption": "Quick wins on SNP Square: space for people instead of cars parked on the pavement.",
+      "captions": {
+        "orange-circles": "The orange circles were a temporary intervention inspired by tactical urbanism, used by cities all over the world from New York to Milan. With colour and street furniture they showed, even before the big reconstruction, that the space had a new purpose. By the way, Rudo Sikora's sculpture Exclamation Mark (Výkričník) has nothing to do with the circles, but it certainly brought the Living Square to life."
+      }
+    },
+    "barriers": {
+      "title": "Fewer barriers, a more unified space",
+      "body": [
+        "The square used to be almost a sample book of surfaces: gravel and dust and… asphalt, concrete, different kinds of paving, kerbs, and above all differences in level that made life harder for thousands of people every day.",
+        "So we set about unifying it. We largely replaced concrete and asphalt with quality granite paving and brought the surfaces to a single level wherever possible. We removed unnecessary barriers and created new, more natural pedestrian links.",
+        "A new footpath now runs in front of the SNP Memorial, for example. We connected Špitálska Street better with the Centrum stop opposite the Old Market Hall. And today the whole square is easier to use for people in wheelchairs, parents with prams and anyone who simply walks through.",
+        "Getting from A to B in the city centre shouldn't be an adventure."
+      ],
+      "captions": {
+        "fewer-barriers": "Fewer barriers, more space for people."
+      }
+    },
+    "greenery": {
+      "title": "More shade. More green. More life.",
+      "list": {
+        "title": "The first stage added:",
+        "items": [
+          "**250 m³ of root cells**, giving trees more room for their roots and better access to moisture,",
+          "**about 130 m² of lawns**,",
+          "**406 m² of underplanting**,",
+          "**29 new trees**, such as hackberries, ashes and Japanese pagoda trees,",
+          "**ornamental bulbs**,",
+          "and **a new green island** on the corner of SNP Square and Špitálska."
+        ]
+      },
+      "body": [
+        "We expanded the green areas, gave the roots of existing trees more room, added underplanting and planted new trees and ornamental bulbs. And you may have noticed that a completely new green island has appeared on the corner of SNP Square and Špitálska.",
+        "Some of the original trees had to be moved elsewhere because they clashed with utility networks or nearby buildings. But the result is simple: there are more trees here today than before the reconstruction."
+      ],
+      "captions": {
+        "tree-planting": "The shade we enjoy today was planted by generations before us. It's up to us to carry on, for today's city and for the future.",
+        "tree-street": "A good city is one where it's pleasant both to move around and to stop, for example in the shade of the trees."
+      }
+    },
+    "underground": {
+      "title": "The most important things are often hidden below the surface",
+      "body": [
+        "Under the square we built a whole new system for catching rainwater and letting it soak away gradually. We used permeable surfaces and base layers, we channel water straight to the trees, and we installed large retention tanks underground. So rainwater no longer disappears into the sewers for nothing: we can use it where the city needs it, for example for greenery. Next to the lawns we also built underground soakaway trenches that help the water seep back into the soil.",
+        "**That's what a modern square is about too: it doesn't just look good, it copes better with heatwaves and heavy rain.**"
+      ]
+    },
+    "rain": {
+      "title": "So what happens when it rains on SNP Square?",
+      "body": [
+        "Rainwater runs off the surface into pipes under the square and from there into a large retention tank at its lower end. There we catch it and let it slowly soak back into the ground.",
+        "If there's too much water and the soil can't take it in fast enough, a pump sends it back to the upper part of the system. From there, perforated pipes spread it under the green areas, where it gets more room and time to soak in.",
+        "Only when even that isn't enough does the excess water flow safely into the storm drains.",
+        "Instead of getting rain out of the city centre as fast as possible, we give it a chance to stay part of the city."
+      ],
+      "diagram": {
+        "title": "How the rainwater system under the square works",
+        "irrigation": "Watering the city's greenery with rainwater",
+        "treePits": "Tree pits with underplanting",
+        "permeableSurface": "Permeable paved surfaces",
+        "permeableConcrete": "Permeable concrete base layer",
+        "pump": "Pump",
+        "tank": "Retention tank for collecting rainwater"
+      }
+    },
+    "stops": {
+      "title": "Tram stops that are easier to board",
+      "body": [
+        "**One small step for a man… and that's exactly what this was about.** At last, a small step is all it takes. At last this platform on Špitálska is step-free and safe. On Špitálska, in place of an unused stretch of track, we built a new tram island for the Centrum stop. Passengers no longer have to get on and off straight into the road: they have their own safe space to wait, and boarding the tram is more comfortable and step-free.",
+        "We also renewed the Centrum stops in front of the Market Hall. Granite replaced asphalt, we raised the boarding edges and connected the platforms to the square without steps. New lit shelters, information boards, ticket machines, tactile guide strips and benches were added."
+      ],
+      "caption": "Safer boarding, fewer barriers, more dignity. This is what a city that thinks of everyone looks like."
+    },
+    "memorialSpace": {
+      "title": "We gave the SNP Memorial its space back",
+      "body": [
+        "Respect for the legacy of the Slovak National Uprising shouldn't just mean laying a wreath once a year. That's one more reason we renewed the Living Square and gave the space around the SNP Memorial a dignified form, so that it is more visible, more accessible and a natural part of everyday life in the city. We created a new, natural footpath in front of the memorial, widened the space for pedestrians and removed the perpendicular parking. Because historical memory shouldn't stand somewhere off to the side of life. It should be part of it."
+      ],
+      "caption": "Today the SNP Memorial is more accessible and belongs more naturally to the square."
+    },
+    "churchOutline": {
+      "title": "When it rains and stays wet, the past appears",
+      "body": [
+        "On Gentle Revolution Square, too, we keep in mind the history that is an important part of our city. From the start, the architectural design included a special type of paving that traces the floor plan of St Lawrence's Church, which once stood on this very spot.",
+        "You'll notice this detail best after rain: water stays a little longer in the grooves of the paving, and for a while it draws the shiny outline of the old church on the surface of the square.",
+        "So a place that disappeared centuries ago comes back for a moment after every rain."
+      ]
+    },
+    "stay": {
+      "title": "A square is not just a place to pass through",
+      "body": [
+        "We added new Bratislava benches, bins and bike racks. We replaced the tram-line poles and the public lighting, so the space feels pleasant and safe in the evening too, and we tidied up lots of small details that together decide whether a public space feels pleasant or chaotic.",
+        "Because we don't want you to just pass through the centre. We want you to have a reason to stay."
+      ],
+      "captions": {
+        "lawn-benches": "The square didn't just get trees, but a whole new planting system. Besides the 29 trees there is new underplanting and lawns that help cool the space and hold water."
+      }
+    },
+    "medieval": {
+      "title": "The Middle Ages never ended, they live on…",
+      "body": [
+        "A piece of medieval Bratislava is still hidden under today's square. And it is right here, during the renewal, that the city's future meets its past.",
+        "Back in the Middle Ages, just outside the city walls, stood the parish church of St Lawrence. Around it lay a cemetery that included St James's Chapel with its ossuary. The whole site belonged to an important suburb of the Bratislava of the time. The church and the above-ground part of the chapel were demolished in 1529 as part of the defences against a threatened Ottoman attack.",
+        "**But much of this story remained underground.** The ossuary and the cemetery were used for centuries more, until burials in towns were banned in the 18th century. Their remains now lie right beneath the feet of the thousands of people who cross SNP Square every day. The current glass shelter protects only part of the archaeological site.",
+        "That's why work has been going on, and will continue, at the former St James's Chapel. Some of it can't be seen from outside, but it lays the groundwork for a future pavilion worthy of the site, with everything that goes with it: step-free access, a visitor route and an exhibition in which the medieval structures themselves would be the main exhibits. Even today, though, those medieval structures deserve a more dignified presentation, so the city has already renovated the existing protective building: we replaced the deteriorated roof, swapped the original glazing for safety glass, restored the plaster and added new wiring, lighting and stainless-steel features that make getting into the ossuary simpler and safer.",
+        "The aim is not only to protect this layer of the city, but to open it up properly and use it to tell the story of the Bratislava that was here long before us."
+      ],
+      "box": {
+        "text": "At the heart of this renewal is also a place with a much deeper meaning: the memorial to Ján Kuciak and Martina Kušnírová. During the reconstruction it was put into storage so it could return to its original spot, which is now new and more dignified. Because the square may change. But the memory of Ján and Martina must remain a firm part of it.",
+        "quote": "“Don't thank me, remember!” That's how Ján Kuciak used to answer friends who thanked him for his help. Today these words are also carried by the memorial to Ján and Martina on SNP Square."
+      },
+      "captions": {
+        "ossuary": "St James's Chapel holds the remains of the oldest religious building in Bratislava, from the 11th century. The chapel also includes an ossuary with thousands of human bones and skulls."
+      }
+    },
+    "circleCloses": {
+      "title": "And the circle closes…",
+      "body": [
+        "We started with orange circles that were meant to show what this space could be. Today we no longer need to paint that vision on the asphalt.",
+        "The first big stage is finished; the second stage, Kamenné Square, is still ahead of us. From now on, the most important part of the Living Square will be the one thing that can't be designed or built: **the life you give it.**"
+      ],
+      "caption": "A quality city centre isn't a luxury. It's the standard Bratislava deserves.",
+      "credits": "For materials and photographs we thank the civic associations Aliancia Stará tržnica and Bratislavské rožky, photographer Marek Velček, the Municipal Monuments Preservation Institute and the Bratislava City Archives."
+    }
+  }
+}

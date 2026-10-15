@@ -1,0 +1,325 @@
+/* Živé námestie – colours and type taken from the exhibition panels. */
+:root {
+  --green: #1f3d2b;
+  --green-deep: #163222;
+  --ink: #13261b;
+  --lime: #d6e3a0;
+  --lime-soft: #e4ecbd;
+  --cream: #ece7a3;
+  --yellow: #f2cf3a;
+  --lilac: #d9c8ee;
+  --pink: #ecd0e1;
+  --blue: #5bb6e8;
+
+  --font-display: "Unbounded Variable", "Arial Black", system-ui, sans-serif;
+  --font-body: "Inter Variable", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --gutter: max(1rem, env(safe-area-inset-left));
+  --measure: 42rem;
+  --radius: 14px;
+
+  color-scheme: light;
+}
+
+/* Scripts the bundled fonts don't cover fall back to good system fonts, so a new language needs no code. */
+:lang(ja) { --font-body: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif; --font-display: var(--font-body); }
+:lang(zh) { --font-body: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", "Source Han Sans SC", sans-serif; --font-display: var(--font-body); }
+:lang(ja), :lang(zh) { line-break: strict; }
+:lang(ja) :is(h1, h2, h3) { word-break: auto-phrase; } /* keep phrases together in headings only */
+:lang(ja) .story__title, :lang(zh) .story__title, :lang(ja) .hero__title, :lang(zh) .hero__title { letter-spacing: .02em; }
+:lang(ko) { --font-body: "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif; --font-display: var(--font-body); }
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 4rem;
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+body {
+  margin: 0;
+  background: var(--green);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+img, svg { display: block; max-width: 100%; height: auto; }
+p { margin: 0 0 1em; }
+p:last-child { margin-bottom: 0; }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--yellow); outline-offset: 3px; border-radius: 4px; }
+
+.skip {
+  position: absolute; left: 1rem; top: -4rem; z-index: 10;
+  background: var(--yellow); color: var(--ink); padding: .5rem 1rem; border-radius: 999px; font-weight: 700;
+}
+.skip:focus { top: .75rem; }
+
+/* ---------- Header ---------- */
+.top {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .4rem 1rem;
+  padding: .5rem var(--gutter);
+  background: color-mix(in srgb, var(--green-deep) 92%, transparent);
+  backdrop-filter: blur(8px);
+  color: var(--cream);
+}
+.top__brand {
+  font-family: var(--font-display); font-weight: 800; text-transform: uppercase; text-decoration: none;
+  font-size: .9rem; letter-spacing: .02em;
+}
+.langs { display: flex; flex-wrap: wrap; gap: .3rem; list-style: none; margin: 0; padding: 0; }
+.langs a {
+  display: inline-grid; place-items: center; min-width: 2.75rem; min-height: 2.75rem; /* 44px touch target */
+  padding: 0 .55rem; border-radius: 999px; text-decoration: none; font-weight: 700; font-size: .85rem;
+  border: 2px solid color-mix(in srgb, var(--cream) 40%, transparent);
+}
+.langs a[aria-current="page"] { background: var(--yellow); border-color: var(--yellow); color: var(--ink); }
+
+/* ---------- Sign (the "Živé námestie oživa" logo) ---------- */
+.sign { position: relative; width: fit-content; margin: 0 auto 2.5rem; }
+.sign__kicker {
+  margin: 0;
+  font-family: var(--font-display); font-weight: 800; text-transform: uppercase; text-align: center;
+  font-size: clamp(1.6rem, 8vw, 2.6rem); line-height: 1.05; color: var(--cream);
+  background: var(--green-deep);
+  padding: 1.1rem 1.6rem 1.3rem;
+  border-radius: 10px;
+  outline: 3px solid var(--cream); outline-offset: -9px;
+  max-width: 12ch;
+}
+.sign__badge {
+  position: absolute; right: -.75rem; bottom: -1.2rem; margin: 0;
+  background: var(--lilac); color: var(--ink); border: 3px solid var(--green-deep);
+  font-family: var(--font-display); font-weight: 800; font-size: clamp(1rem, 4.5vw, 1.4rem);
+  padding: .1rem 1rem .25rem; border-radius: 999px; transform: rotate(-4deg);
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  background: var(--lime);
+  padding: 3rem var(--gutter) 3.5rem;
+}
+.hero > * { max-width: var(--measure); margin-inline: auto; }
+.hero__title {
+  font-family: var(--font-display); font-weight: 800; text-align: center;
+  font-size: clamp(1.5rem, 6.4vw, 2.6rem); line-height: 1.1; margin: 0 auto 1.5rem;
+  text-wrap: balance; overflow-wrap: break-word; hyphens: manual; -webkit-hyphens: manual;
+}
+.hero__lead { font-size: 1.08rem; }
+.hero__note {
+  margin-top: 1.5rem; font-size: .85rem; padding: .7rem .9rem; border-radius: 10px;
+  background: var(--lime-soft); border: 1.5px solid var(--ink);
+}
+
+/* ---------- Parts ---------- */
+.part { padding: 3rem var(--gutter) 4rem; }
+.part > * { max-width: var(--measure); margin-inline: auto; }
+.part--history { background: var(--green); color: var(--lime-soft); }
+.part--today { background: var(--lime); color: var(--ink); }
+.part__title {
+  font-family: var(--font-display); font-weight: 800; text-transform: uppercase;
+  font-size: .85rem; letter-spacing: .12em; margin-bottom: .5rem;
+  display: flex; align-items: center; gap: .75rem;
+}
+.part__title::after { content: ""; flex: 1; height: 3px; border-radius: 3px; background: currentColor; opacity: .5; }
+.part__timeline-label {
+  display: block; width: fit-content; margin-top: 1rem;
+  background: var(--yellow); color: var(--ink); font-weight: 700; font-size: .85rem; line-height: 1.3;
+  padding: .35rem .7rem; border-radius: 8px;
+}
+
+/* ---------- Story sections ---------- */
+.story { padding-block: 2.5rem; }
+.story__title {
+  font-family: var(--font-display); font-weight: 800; text-transform: uppercase;
+  font-size: clamp(1.35rem, 6.2vw, 2.3rem); line-height: 1.08; letter-spacing: -.005em;
+  margin: 0 0 1.25rem; text-wrap: balance; overflow-wrap: break-word; hyphens: manual; -webkit-hyphens: manual;
+}
+.part--history .story__title { color: var(--cream); }
+.story__body p + p { text-indent: 1.5em; margin-top: -.6em; }
+.story__body strong { color: inherit; font-weight: 750; }
+.part--history .story__body strong { color: var(--cream); }
+
+/* Pink-box headings with a lime text card, as on the "Malý kúsok veľkých dejín" panel. */
+.story--callout .story__title {
+  display: inline-block; background: var(--lilac); color: var(--ink);
+  padding: .6rem .9rem .7rem; border-radius: 12px; transform: rotate(-1.5deg);
+}
+.story--callout .story__body {
+  background: var(--lime); color: var(--ink); border-radius: 12px; padding: 1rem 1.1rem;
+}
+.part--history .story--callout .story__body strong { color: var(--ink); }
+
+/* ---------- Photos ---------- */
+.gallery { display: grid; gap: 1.75rem; margin-top: 1.75rem; }
+@media (min-width: 34rem) {
+  .gallery--multi { grid-template-columns: 1fr 1fr; align-items: start; }
+}
+.photo { margin: 0; display: grid; justify-items: start; }
+.photo__frame {
+  position: relative; width: 100%;
+  border-radius: var(--radius); overflow: hidden;
+  background: var(--green-deep);
+  box-shadow: 0 10px 24px -14px rgb(0 0 0 / .6);
+}
+.part--today .photo__frame { border: 2px solid var(--ink); }
+.photo__frame img { width: 100%; }
+.gallery > .photo:nth-child(odd) .photo__frame { transform: rotate(-1deg); }
+.gallery > .photo:nth-child(even) .photo__frame { transform: rotate(1.2deg); }
+
+.chip {
+  display: inline-block; position: relative; z-index: 1;
+  margin: -.9rem 0 0 .6rem; max-width: calc(100% - 1.2rem);
+  background: var(--pink); color: var(--ink);
+  font-size: .82rem; line-height: 1.35;
+  padding: .45rem .7rem; border-radius: 10px;
+  border: 1.5px solid var(--ink);
+}
+.chip--label {
+  position: absolute; left: 50%; bottom: .5rem; margin: 0; transform: translateX(-50%);
+  background: var(--lilac); font-weight: 750; font-size: .8rem; padding: .1rem .8rem; border-radius: 999px;
+}
+
+.illustration { width: min(60%, 18rem); margin: 2rem auto 0; }
+
+.before-after { margin: 1.75rem 0 0; display: grid; justify-items: start; }
+.before-after__pair { display: grid; gap: 1rem; width: 100%; }
+@media (min-width: 34rem) { .before-after__pair { grid-template-columns: 1fr 1fr; gap: .6rem; } }
+.before-after .photo__frame { aspect-ratio: 16 / 9; }
+.before-after .photo__frame img { height: 100%; object-fit: cover; }
+.before-after .photo:first-child .photo__frame { transform: rotate(-1.2deg); }
+.before-after .photo:last-child .photo__frame { transform: rotate(1deg); }
+.before-after > .chip { margin-top: .9rem; }
+
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .photo__frame, .names li {
+      animation: rise linear both;
+      animation-timeline: view();
+      animation-range: entry 5% entry 70%;
+    }
+  }
+}
+@keyframes rise { from { opacity: 0; translate: 0 1.5rem; } }
+
+/* ---------- Timeline: one yellow line down the whole history part ---------- */
+.rail {
+  --rail-x: .7rem;   /* centre of the line, from the rail's left edge */
+  --rail-pad: 1.8rem; /* content starts this far right of the rail's left edge */
+  --dot: 2.8rem;      /* year circle */
+  position: relative; padding-left: var(--rail-pad); padding-bottom: 1rem;
+}
+.rail::before, .rail::after {
+  content: ""; position: absolute; left: calc(var(--rail-x) - 3px); width: 6px; border-radius: 6px;
+  top: 1.3rem; bottom: 0; background: var(--yellow);
+}
+.rail::before { opacity: .35; }
+/* The bright line fills in as you scroll through the history (where supported). */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .rail { view-timeline: --history block; }
+    .rail::after {
+      transform-origin: top; animation: draw linear both;
+      animation-timeline: --history; animation-range: cover 10% cover 90%;
+    }
+  }
+}
+@keyframes draw { from { transform: scaleY(0); } }
+.rail .part__timeline-label { position: relative; z-index: 1; margin-left: calc(var(--rail-x) - var(--rail-pad) - .35rem); }
+/* A stop on the line for every story. */
+.rail > .story { position: relative; }
+.rail > .story::before {
+  content: ""; position: absolute; z-index: 1; top: 2.7rem;
+  left: calc(var(--rail-x) - var(--rail-pad) - .6rem); width: 1.2rem; height: 1.2rem; border-radius: 50%;
+  background: var(--green); border: 4px solid var(--yellow);
+}
+
+/* Historical names sit on the same line. */
+.names {
+  list-style: none; padding: 0; display: grid; gap: .55rem; position: relative; z-index: 1;
+  margin: 2rem 0 0 calc(var(--rail-x) - var(--rail-pad) - var(--dot) / 2);
+}
+.names li { display: grid; grid-template-columns: var(--dot) 1fr; align-items: center; gap: .55rem; }
+.names__year {
+  display: grid; place-items: center; width: var(--dot); height: var(--dot); border-radius: 50%;
+  background: var(--yellow); color: var(--ink); font-weight: 800; font-size: .74rem;
+  border: 3px solid var(--green);
+}
+.names__name {
+  width: fit-content; background: var(--yellow); color: var(--ink);
+  font-weight: 700; font-size: .85rem; line-height: 1.25; padding: .3rem .65rem; border-radius: 8px;
+}
+
+/* ---------- Quiz ---------- */
+.quiz {
+  background: var(--lilac); border: 2px solid var(--ink); border-radius: 16px;
+  padding: 1rem 1.1rem; margin-bottom: 1.5rem;
+}
+.quiz__q { font-weight: 750; margin-bottom: .6rem; }
+.quiz__options { list-style: none; padding: 0; margin: 0 0 .75rem; display: grid; gap: .45rem; }
+.quiz__options li { display: grid; grid-template-columns: 1.8rem 1fr; gap: .5rem; align-items: start; }
+.quiz__options li::before {
+  content: attr(data-letter); display: grid; place-items: center;
+  width: 1.6rem; height: 1.6rem; border: 2px solid var(--ink); border-radius: 50%; font-size: .8rem; font-weight: 700;
+}
+.quiz__reveal summary {
+  cursor: pointer; width: fit-content; list-style: none;
+  background: var(--ink); color: var(--lime); font-weight: 700; font-size: .9rem;
+  padding: .55rem 1rem; border-radius: 999px; min-height: 2.75rem; display: flex; align-items: center;
+}
+.quiz__reveal summary::-webkit-details-marker { display: none; }
+.quiz__reveal[open] summary { display: none; }
+.quiz__reveal p { margin: 0; padding: .55rem .8rem; border-radius: 10px; background: var(--yellow); }
+
+/* ---------- Checklist ---------- */
+.checklist {
+  background: var(--lilac); border: 2px solid var(--ink); border-radius: 16px; padding: 1rem 1.1rem; margin-bottom: 1.5rem;
+}
+.checklist__title { font-weight: 750; margin-bottom: .5rem; }
+.checklist ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .4rem; }
+.checklist li { display: grid; grid-template-columns: 1.7rem 1fr; gap: .4rem; }
+.checklist li::before {
+  content: "✓"; display: grid; place-items: center; width: 1.4rem; height: 1.4rem; margin-top: .1rem;
+  border: 2px solid var(--ink); border-radius: 50%; font-size: .75rem; font-weight: 800;
+}
+
+/* ---------- Kuciak & Kušnírová memorial box ---------- */
+.memorial-box {
+  margin-top: 1.75rem; background: var(--green); color: var(--lime-soft); border-radius: 16px; padding: 1.1rem 1.2rem;
+}
+.memorial-box blockquote {
+  margin: 1rem 0 0; background: var(--pink); color: var(--ink); border: 1.5px solid var(--ink);
+  border-radius: 10px; padding: .7rem .9rem; font-size: .92rem;
+}
+
+/* ---------- Rain diagram ---------- */
+.diagram { margin: 1.75rem 0 0; }
+.diagram__frame { border: 2px solid var(--ink); border-radius: var(--radius); overflow: hidden; background: var(--lime-soft); }
+.diagram__frame img { width: 100%; }
+.diagram__title { font-weight: 750; margin: .9rem 0 .4rem; }
+.diagram__legend { margin: 0; padding: 0; list-style: none; display: grid; gap: .35rem; font-size: .92rem; }
+.diagram__legend li { display: grid; grid-template-columns: 1.2rem 1fr; gap: .4rem; }
+.diagram__legend li::before { content: ""; width: .7rem; height: .7rem; margin-top: .45rem; border-radius: 50%; background: var(--blue); border: 2px solid var(--ink); }
+
+.credits {
+  margin-top: 2rem; background: var(--green); color: var(--lime-soft); border-radius: 12px; padding: .8rem 1rem; font-size: .88rem;
+}
+
+/* ---------- Footer & language chooser ---------- */
+.foot { padding: 2rem var(--gutter) 3rem; text-align: center; color: var(--lime-soft); background: var(--green); }
+.foot a { display: inline-block; padding: .6rem 1rem; }
+.foot__credits { max-width: var(--measure); margin: 0 auto 1rem; font-size: .8rem; opacity: .85; }
+
+.chooser { min-height: 100svh; display: grid; place-content: center; gap: 2rem; padding: 2rem var(--gutter); background: var(--lime); }
+.chooser__list { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; justify-items: center; }
+.chooser__list a {
+  display: inline-block; min-width: 12rem; text-align: center; text-decoration: none; font-weight: 700;
+  padding: .75rem 1.25rem; border-radius: 999px; background: var(--ink); color: var(--lime);
+}

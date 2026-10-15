@@ -1,0 +1,22 @@
+---
+import { inline } from "../lib/i18n";
+
+interface Props {
+  quiz: { question: string; options: string[]; answer: number };
+  showAnswer: string;
+}
+const { quiz, showAnswer } = Astro.props;
+const letters = ["A", "B", "C", "D"];
+---
+<div class="quiz">
+  <p class="quiz__q" set:html={inline(quiz.question)} />
+  <ol class="quiz__options">
+    {quiz.options.map((o, i) => (
+      <li data-letter={letters[i]} class:list={{ "is-answer": i === quiz.answer }}><span set:html={inline(o)} /></li>
+    ))}
+  </ol>
+  <details class="quiz__reveal">
+    <summary>{showAnswer}</summary>
+    <p><strong>{letters[quiz.answer]}</strong>: <span set:html={inline(quiz.options[quiz.answer]!)} /></p>
+  </details>
+</div>

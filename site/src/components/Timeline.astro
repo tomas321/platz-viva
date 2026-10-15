@@ -1,0 +1,14 @@
+---
+interface Props {
+  items: [number, string][];
+}
+const { items } = Astro.props;
+---
+<ol class="names">
+  {items.map(([year, name]) => (
+    <li>
+      <time class="names__year" datetime={String(year)}>{year}</time>
+      <span class="names__name">{name}</span>
+    </li>
+  ))}
+</ol>

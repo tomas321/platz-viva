@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+.wrangler-state/
+site/functions/_languages.ts
+.dev.vars

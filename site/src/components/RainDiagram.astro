@@ -1,0 +1,20 @@
+---
+// The city's own rainwater diagram (Slovak labels baked in); the translated legend below explains it.
+import { Picture } from "astro:assets";
+import { image } from "../lib/images";
+
+interface Props {
+  d: { title: string; irrigation: string; treePits: string; permeableSurface: string; permeableConcrete: string; pump: string; tank: string };
+}
+const { d } = Astro.props;
+const legend = [d.permeableSurface, d.treePits, d.irrigation, d.permeableConcrete, d.pump, d.tank];
+---
+<figure class="diagram">
+  <div class="diagram__frame">
+    <Picture src={image("rain-diagram")} formats={["avif", "webp"]} widths={[480, 800, 1200]} sizes="(min-width: 48rem) 42rem, 100vw" alt={d.title} loading="lazy" decoding="async" />
+  </div>
+  <figcaption>
+    <p class="diagram__title">{d.title}</p>
+    <ul class="diagram__legend">{legend.map((t) => <li>{t}</li>)}</ul>
+  </figcaption>
+</figure>

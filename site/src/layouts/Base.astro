@@ -1,0 +1,40 @@
+---
+import "@fontsource-variable/unbounded/wght.css";
+import "@fontsource-variable/inter/wght.css";
+import "../styles/global.css";
+import { languages } from "../lib/i18n";
+
+interface Props {
+  lang: string;
+  dir?: string;
+  title: string;
+  description: string;
+  /** Path of this page below the language prefix, used for hreflang links. */
+  alternates?: boolean;
+}
+const { lang, dir = "ltr", title, description, alternates = true } = Astro.props;
+const site = Astro.site!;
+const canonical = new URL(Astro.url.pathname, site).href;
+---
+<!doctype html>
+<html lang={lang} dir={dir}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#1f3d2b" />
+    <link rel="canonical" href={canonical} />
+    {alternates && languages.map((l) => <link rel="alternate" hreflang={l.dict.meta.htmlLang} href={new URL(`/${l.code}/`, site).href} />)}
+    {alternates && <link rel="alternate" hreflang="x-default" href={new URL("/", site).href} />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={lang} />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,68 @@
+---
+import Base from "../../layouts/Base.astro";
+import Section from "../../components/Section.astro";
+import { languages, sections, inline, dictFor } from "../../lib/i18n";
+
+export function getStaticPaths() {
+  return languages.map((l) => ({ params: { lang: l.code } }));
+}
+
+const { lang } = Astro.params;
+const dict = dictFor(lang!);
+const { ui, meta } = dict;
+const intro = dict.sections.intro;
+const history = sections.filter((s) => s.part === "history");
+const today = sections.filter((s) => s.part === "today");
+---
+<Base lang={meta.htmlLang} dir={meta.dir} title={ui.siteTitle} description={ui.description}>
+  <a class="skip" href="#main">{ui.skipToContent}</a>
+  <header class="top" id="top">
+    <a class="top__brand" href={`/${lang}/`}>Živé námestie</a>
+    <nav aria-label={ui.language}>
+      <ul class="langs">
+        {languages.map((l) => (
+          <li>
+            <a
+              href={`/${l.code}/`}
+              hreflang={l.dict.meta.htmlLang}
+              lang={l.dict.meta.htmlLang}
+              aria-current={l.code === lang ? "page" : undefined}
+              title={l.dict.meta.name}
+            >{l.code.toUpperCase()}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="sign">
+        <p class="sign__kicker">{intro.kicker}</p>
+        <p class="sign__badge">{intro.badge}</p>
+      </div>
+      <h1 id="hero-title" class="hero__title" set:html={inline(intro.title)} />
+      {intro.body.map((p) => <p class="hero__lead" set:html={inline(p)} />)}
+      <p class="hero__note">{ui.sourceNote}</p>
+    </section>
+
+    <div class="part part--history">
+      <h2 class="part__title">{ui.partHistory}</h2>
+      <div class="rail">
+        <p class="part__timeline-label">{ui.timelineTitle}</p>
+        {history.map((def) => <Section def={def} dict={dict} />)}
+      </div>
+    </div>
+
+    <div class="part part--today">
+      <h2 class="part__title">{ui.partToday}</h2>
+      {today.map((def) => <Section def={def} dict={dict} />)}
+    </div>
+  </main>
+
+  <footer class="foot">
+    <p class="foot__credits">{ui.photoCredits}</p>
+    <a href="#top">{ui.backToTop}</a>
+  </footer>
+  <script is:inline src="/js/count.js" defer data-lang={lang}></script>
+</Base>

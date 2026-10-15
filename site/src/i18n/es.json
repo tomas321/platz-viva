@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "name": "Español",
+    "htmlLang": "es",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Živé námestie cobra vida",
+    "description": "La historia de la plaza SNP de Bratislava, desde los mercados medievales hasta la renovación de Živé námestie (Plaza Viva). Versión digital de la exposición instalada en la plaza.",
+    "skipToContent": "Saltar al contenido",
+    "language": "Idioma",
+    "partHistory": "La historia de la plaza",
+    "partToday": "La nueva plaza",
+    "timelineTitle": "Cómo cambió el nombre de la plaza SNP a lo largo de los siglos",
+    "before": "Antes",
+    "after": "Después",
+    "showAnswer": "Ver la respuesta",
+    "sourceNote": "Esta página recrea la exposición al aire libre «Živé námestie oživa» (La Plaza Viva cobra vida), instalada en la plaza SNP de Bratislava. Traducida del eslovaco.",
+    "backToTop": "Volver arriba",
+    "chooseLanguage": "Elige un idioma",
+    "photoCredits": "Fotos de antes y después, el esquema del agua de lluvia y las fotos de la nueva plaza: © Ciudad de Bratislava (bratislava.sk), fotos de Marek Velček. Mejoras rápidas y fotos históricas del estudio histórico de 2016: Živé námestie / Instituto Metropolitano de Bratislava, CC BY-NC-SA 3.0 (foto de 1933: Archivo de la Ciudad de Bratislava; mercado en los años 40: colección de Juraj Horváth). Noviembre de 1989: Helena Bakaljarová, Volkskundemuseum Wien, CC0. Osario: Kiwiev, Wikimedia Commons, CC0. Las demás imágenes están fotografiadas de la exposición en la plaza."
+  },
+  "sections": {
+    "intro": {
+      "kicker": "Živé námestie",
+      "badge": "cobra vida",
+      "title": "De los círculos naranjas al presente, y más allá",
+      "body": [
+        "Durante años se habló de la necesidad de transformar y unificar el espacio público central formado por tres plazas: la plaza SNP (del Levantamiento Nacional Eslovaco), la plaza de la Revolución de Terciopelo y la plaza Kamenné. Hasta hace poco, uno de los lugares más concurridos e importantes del corazón de Bratislava daba una impresión más bien vaga e inconexa. El proyecto Živé námestie (Plaza Viva) cambió eso: aquí está naciendo un espacio de calidad, el que el centro de la ciudad realmente merece. Primero en la plaza SNP y en la plaza de la Revolución de Terciopelo; en la siguiente etapa llegará el turno de la plaza Kamenné. La idea de renovar y unificar la Plaza Viva partió de la iniciativa Aliancia Stará tržnica (Alianza del Antiguo Mercado). En 2019 la ciudad, junto con el Instituto Metropolitano de Bratislava, convocó un concurso de arquitectura en forma de diálogo competitivo."
+      ]
+    },
+    "cityEdge": {
+      "title": "Aquí terminaba antes Bratislava.",
+      "body": [
+        "En la Edad Media, las murallas de la ciudad seguían la línea de la actual plaza SNP. El espacio que hoy vemos como el centro mismo quedaba entonces prácticamente **fuera de la ciudad**. Pero delante de las murallas se comerciaba, y de esos mercados fue surgiendo poco a poco la plaza actual. Uno de sus nombres más antiguos conocidos era **Mercado del Pan**, y ya el libro de cuentas de la ciudad de 1506 menciona un horno de panadero junto a la Puerta de San Lorenzo."
+      ],
+      "captions": {
+        "map-wagner": "Plano de Bratislava, siglo XIX, de Eduard Wagner, publicado en Darmstadt",
+        "engraving-church": "Iglesia de los Hermanos de la Misericordia en la plaza SNP, grabado (reproducción fotográfica)."
+      }
+    },
+    "napoleon": {
+      "title": "Un pequeño trozo de gran historia",
+      "body": [
+        "Corría el año 1809 y las tropas de Napoleón bombardeaban Bratislava desde la orilla de Petržalka. Dispararon casi 4 000 proyectiles contra la ciudad. Muchos cayeron en la actual plaza SNP. Las balas de cañón silbaban, las casas se derrumbaban y la mayor parte de la plaza quedó devastada.",
+        "Uno de los pocos edificios que sobrevivió al bombardeo, casi de milagro, sigue aquí en pie: el convento de los Hermanos de la Misericordia. Y aún guarda un recuerdo de aquel día: una de las balas de cañón originales de Napoleón. No tras un cristal en un museo, sino incrustada en la fachada.",
+        "Así que la próxima vez que cruces la plaza, intenta encontrarla. Es un pequeño trozo de gran historia que lleva más de 200 años observando la plaza."
+      ],
+      "captions": {
+        "napoleon-ball": "Encontrarás la bala empotrada en la fachada del hospital de los Hermanos de la Misericordia, junto a una de las entradas, a unos dos metros del suelo."
+      }
+    },
+    "smell": {
+      "title": "¡Un lugar que se olía!",
+      "body": [
+        "Los propios nombres de las partes de la plaza dicen mucho de su vida diaria: **Mercado del Trigo, Mercado del Pan, Mercado Verde, Mercado de las Aves…** Cada martes y viernes se vendían aquí fruta, verdura, aves y huevos. En **1879 la ciudad unió administrativamente varios de estos espacios de mercado en una sola Plaza del Mercado**, y a finales del siglo XIX la actual Plaza Viva se convirtió en el principal mercado de Bratislava. El Mercado Alto estaba más o menos donde hoy se alza el Monumento SNP, el Mercado del Pan delante del actual Antiguo Mercado y el Mercado de las Aves hacia la plaza Kamenné.",
+        "No era precisamente un centro aséptico. En 1901 la prensa describía la Plaza del Mercado como tan sucia que los zapatos de los visitantes quedaban tras el paseo **«impregnados de un líquido de olor indescriptible»**. El caos, la higiene y la necesidad de abastecer mejor a una ciudad en crecimiento fueron algunas de las razones por las que Bratislava construyó un mercado cubierto.",
+        "El Antiguo Mercado abrió en **1910**. En su interior, en unos 1 000 m², había **sitio para hasta 900 vendedores.** Cumplió su función exactamente 50 años. ¿Y después? Desde 1960 albergó almacenes y estudios de la Televisión Eslovaca."
+      ],
+      "captions": {
+        "street-1930s": "Vista histórica de la plaza con el Antiguo Mercado.",
+        "market-1928": "Puestos de mercado en la plaza, frente al Antiguo Mercado."
+      }
+    },
+    "chicago": {
+      "title": "«Chicago» en Bratislava",
+      "body": [
+        "El periodo de entreguerras dejó en la plaza varios edificios que todavía hoy definen el centro. En poco tiempo se levantaron cuatro nuevos edificios llamativos: la Caja de Ahorros Municipal (hoy sede de Slovenská sporiteľňa, en la esquina de Štúrova y Dunajská), las Casas Cooperativas (frente al Antiguo Mercado), Brouk a Babka (el edificio de los «antiguos» grandes almacenes Dunaj) y la Casa Manderla, el «Manderlák».",
+        "En 1936 se levantó aquí el Manderlák, el primer «rascacielos» de Bratislava. Tenía 45 metros y se construyó para el empresario y carnicero Rudolf Manderla, que supuestamente se inspiró en Chicago. En la planta baja tenía su carnicería; más tarde funcionaron allí el popular comedor de los Satinský y el Café Grand, punto de encuentro de la élite de Bratislava.",
+        "También la Caja de Ahorros Municipal de Juraj Tvarožek fue una rareza arquitectónica para su época: fue el primer edificio de Eslovaquia con una **fachada de vidrio colgada de una estructura de hormigón armado**, y se apoya sobre 584 pilotes de hormigón armado."
+      ],
+      "captions": {
+        "manderlak-1949": "El Chicago de Bratislava: el Manderlák, con el mercado frente al Antiguo Mercado al fondo. 1949",
+        "brouk-plan-1935": "Bohuslav Brouk, los primeros grandes almacenes de Bratislava, arquitecto Christian Ludwig, 1935",
+        "brouk-night": "Brouk a Babka (Bohuslav Brouk) sabía brillar incluso después del cierre."
+      }
+    },
+    "stalin": {
+      "title": "La plaza donde Stalin se sujetaba los pantalones…",
+      "body": [
+        "Tras la Segunda Guerra Mundial, el espacio empezó a cambiar no solo arquitectónica sino también ideológicamente.",
+        "En 1949 se dio un paso importante: se colocó una estatua de Stalin. Sustituyó a la fuente de Carolina Augusta, que estaba en ese lugar desde 1828. La plaza, que llevaba el nombre de Stalin desde 1945, adquirió un tono ideológico aún más fuerte cuando llegó su monumental estatua. Pero la estatua no duró mucho. Fue retirada en agosto de 1962 dentro de la desestalinización.",
+        "Se conserva una estupenda anécdota local: desde cierto ángulo, Stalin parecía sujetarse los pantalones con la mano. Por eso los bratislavenses bromeaban con que **«Stalin se sujeta los pantalones porque cerraron el baño público de la plaza».**"
+      ],
+      "captions": {
+        "stalin-workshop": "Un obrero y la supervisión técnica trabajando en el monumento a J. V. Stalin.",
+        "stalin-scaffold": "Si de verdad se sujetaba los pantalones seguirá siendo un misterio para siempre."
+      }
+    },
+    "kamenne": {
+      "title": "De la plaza Kamenné a la plaza de Kiev, y vuelta",
+      "body": [
+        "El nombre «Kamenné» (de piedra) era literal. Las casas de esta plaza, originalmente diminuta, pertenecían a la familia de canteros **Rumpelmayer**, que almacenaba y labraba piedras y columnas en su patio. De ahí los nombres Steinmetzplatz, Steinplatz y finalmente Kamenné námestie.",
+        "El mayor cambio llegó en los años 60. Entre **1962 y 1965** se derribaron las manzanas originales de la plaza Kamenné. Desaparecieron casas, tiendas, el Hotel Rudolf y la conocida ferretería Neurath, dejando sitio a un complejo modernista completamente nuevo.",
+        "En 1960 se celebró un concurso para un nuevo centro comercial y social. El proyecto de **Ivan Matušík**, entonces un arquitecto de apenas unos treinta años, trajo los grandes almacenes Prior y más tarde el Hotel Kyjev. Prior se construyó entre 1964 y 1968, y el hotel se terminó en 1973. El espacio recibió entonces el nombre de **plaza de Kiev**, por la ciudad hermanada con Bratislava; no recuperó el nombre de plaza Kamenné hasta 1990.",
+        "El complejo de Matušík fue un experimento en su época. Como él mismo recordaba, los arquitectos de Checoslovaquia **buscaban entonces cómo debían ser unos grandes almacenes modernos.** Y lo encontraron.",
+        "Las ambiciones eran aún mayores. La calle Špitálska iba a convertirse en un ancho bulevar hacia Krížna, y otras manzanas históricas iban a desaparecer. Pero los planes nunca se completaron. Por eso todavía hoy se percibe aquí el choque de dos ciudades: el antiguo centro compacto y la visión socialista de una ciudad abierta y moderna."
+      ],
+      "captions": {
+        "may-day": "Celebración del Primero de Mayo. Desfile ante la iglesia de los Hermanos de la Misericordia con la farmacia, en la plaza SNP.",
+        "lower-square-1933": "Parte baja de la plaza SNP. Delante, un quiosco de tabaco; a la izquierda, la ferretería Neurath y el Hotel Rudolf (derribados al construir los almacenes Prior); a la derecha, casas que siguen en pie. 1933",
+        "spitalska": "La calle Špitálska vista desde la plaza SNP. A la derecha, la casa de la empresa nacional Zdroj, detrás la plaza Kamenné; a la izquierda, la Unión de Cajas Agrarias de Ahorro Mutuo."
+      }
+    },
+    "memorial1974": {
+      "title": "1974: el monumento que redefinió la parte alta de la plaza",
+      "body": [
+        "En 1974, en el 30.º aniversario del Levantamiento Nacional Eslovaco (SNP), se inauguró el actual Monumento SNP. Originalmente tenía también tres quemadores que simbolizaban la llama eterna.",
+        "Así, en aproximadamente una década, la zona adquirió la forma que los bratislavenses conocerían durante los cincuenta años siguientes: en un extremo, el modernista Prior y el Kyjev; en el otro, el monumental Monumento SNP."
+      ]
+    },
+    "revolution": {
+      "title": "Y entonces aquí se volvió a escribir la historia",
+      "body": [
+        "El nombre de plaza SNP resultó casi profético: un espacio creado por siglos de comercio y remodelado por los regímenes volvió a ser lugar de vida cívica y política.",
+        "A los acontecimientos de noviembre de 1989 se une hoy una placa conmemorativa en el edificio de los Hermanos de la Misericordia. Su texto recuerda que fue precisamente aquí donde la gente decidió «tomar en sus manos la responsabilidad del futuro» y acabar con el régimen comunista. El lugar donde Bratislava pidió libertad en noviembre del 89 recibió, en el 30.º aniversario de aquellos hechos, el nombre de plaza de la Revolución de Terciopelo.",
+        "Y quizá eso sea lo más interesante de toda la zona. Durante siglos cambió de nombre, de función y de aspecto, pero una cosa se mantuvo: era el lugar donde se encontraban los bratislavenses. Primero por el pan, la verdura y las aves. Después para comprar y tomar un café. Luego en manifestaciones y protestas políticas. Y la historia no termina…"
+      ],
+      "captions": {
+        "november-1989": "Noviembre de 1989"
+      }
+    },
+    "whatNext": {
+      "title": "¿Y después qué?",
+      "body": [
+        "La libertad la conseguimos haciendo sonar las llaves, pero la plaza aún buscaba su nueva forma. En los años 90, sin una gran visión, continuó aquí un pequeño «barroco del asfalto» y poco a poco fue surgiendo un extraño muestrario de materiales. Hasta que…"
+      ]
+    },
+    "circles": {
+      "title": "Al principio fueron los círculos…",
+      "quiz": {
+        "question": "Los famosos círculos naranjas servían como:",
+        "options": [
+          "señales de navegación para una posible visita extraterrestre",
+          "una forma clara de mostrar a los peatones el nuevo espacio que podían usar",
+          "un tres en raya gigante para gente poco exigente"
+        ],
+        "answer": 1
+      },
+      "body": [
+        "Sí, la B. La B es la correcta. Los círculos naranjas debían simplemente mostrar cómo se podía usar el espacio de otra manera y, sin una sola excavadora, dar un pequeño anticipo del futuro: una plaza más grande, más unificada y que funcionara mucho más como una plaza de verdad. Pero antes de poder empezar a construir nos esperaba un camino complicado, así que los círculos se quedaron más tiempo del previsto.",
+        "Empezamos con mejoras urbanas rápidas, las llamadas «quick wins». En la calle Klobučnícka se plantaron árboles nuevos y en la plaza SNP ampliamos las zonas que los peatones podían usar con seguridad. Al mismo tiempo se hicieron análisis, estudios, encuestas, simulaciones y conversaciones con las personas y entidades que usan el espacio cada día.",
+        "Después llegó un concurso internacional de arquitectura en forma de diálogo competitivo, el primero en Eslovaquia. De él salió ganador el proyecto del equipo Atelier LOIDL, en colaboración con los ingenieros de tráfico BPR Dr. Schäpertöns Consult.",
+        "Su propuesta tenía una ambición sencilla: dar al centro la calidad que merece. Más espacio para las personas. Menos barreras. Superficies de piedra de calidad. Más verde y más agua. Luego vinieron los estudios geológicos y patrimoniales, el proyecto, los permisos y la elección del contratista.",
+        "Siguieron años de trabajo menos visible pero imprescindible: estudios geotécnicos y patrimoniales, el desarrollo del diseño hasta el proyecto de ejecución y la elección del contratista.",
+        "**En octubre de 2025 empezamos a construir. Y hoy la primera etapa está terminada.**"
+      ],
+      "caption": "Mejoras rápidas en la plaza SNP: espacio para las personas en lugar de coches aparcados en la acera.",
+      "captions": {
+        "orange-circles": "Los círculos naranjas fueron una intervención temporal inspirada en el urbanismo táctico, que usan ciudades de todo el mundo, de Nueva York a Milán. Con color y mobiliario mostraron, ya antes de la gran reforma, que el espacio tenía una nueva función. Por cierto, la escultura Výkričník (Signo de exclamación) de Rudo Sikora no tiene que ver con los círculos, pero sin duda animó la Plaza Viva."
+      }
+    },
+    "barriers": {
+      "title": "Menos barreras y un espacio más unificado",
+      "body": [
+        "La plaza era antes casi un muestrario de superficies: grava y polvo y… asfalto, hormigón, distintos adoquines, bordillos y, sobre todo, desniveles que complicaban la vida a miles de personas cada día.",
+        "Por eso nos pusimos a unificar. Sustituimos en gran parte el hormigón y el asfalto por un pavimento de granito de calidad y dejamos las superficies, en lo posible, a un solo nivel. Quitamos barreras innecesarias y creamos conexiones peatonales nuevas y más naturales.",
+        "Un nuevo paseo pasa, por ejemplo, por delante del Monumento SNP. Conectamos mejor la calle Špitálska con la parada Centrum frente al Antiguo Mercado. Y hoy toda la plaza es más fácil de usar para personas en silla de ruedas, padres con carrito y cualquiera que simplemente pase por aquí.",
+        "Porque en el centro de una ciudad ir del punto A al punto B no debería ser una aventura."
+      ],
+      "captions": {
+        "fewer-barriers": "Menos barreras, más espacio para las personas."
+      }
+    },
+    "greenery": {
+      "title": "Más sombra. Más verde. Más vida.",
+      "list": {
+        "title": "La primera etapa ha añadido:",
+        "items": [
+          "**250 m³ de celdas de enraizamiento**, que dan a los árboles más espacio para las raíces y mejor acceso a la humedad,",
+          "**unos 130 m² de césped**,",
+          "**406 m² de plantación baja**,",
+          "**29 árboles nuevos**, por ejemplo almeces, fresnos y sóforas del Japón,",
+          "**bulbos ornamentales**,",
+          "y **una nueva isla verde** en la esquina de la plaza SNP con Špitálska."
+        ]
+      },
+      "body": [
+        "Ampliamos las zonas verdes, dimos más espacio a las raíces de los árboles existentes, añadimos plantación baja y plantamos árboles nuevos y bulbos ornamentales. Y quizá te hayas fijado en que en la esquina de la plaza SNP con Špitálska ha surgido una isla verde completamente nueva.",
+        "Algunos árboles originales tuvimos que trasplantarlos a otro lugar por conflictos con redes de servicios o con edificios cercanos. Pero el resultado es sencillo: hoy hay aquí más árboles que antes de la reforma."
+      ],
+      "captions": {
+        "tree-planting": "La sombra que tenemos hoy la plantaron generaciones anteriores. Nos toca a nosotros continuar. Para la ciudad de hoy, pero también para el futuro.",
+        "tree-street": "Una buena ciudad es aquella en la que es agradable tanto moverse como detenerse, por ejemplo a la sombra de los árboles."
+      }
+    },
+    "underground": {
+      "title": "Lo más importante suele esconderse bajo la superficie",
+      "body": [
+        "Bajo la plaza construimos todo un sistema nuevo para captar el agua de lluvia y dejar que se infiltre poco a poco. Usamos superficies y capas base permeables, llevamos el agua directamente a los árboles e instalamos grandes depósitos de retención bajo tierra. Así el agua de lluvia no se pierde por el alcantarillado, sino que podemos aprovecharla donde la ciudad la necesita, por ejemplo para las zonas verdes. Junto al césped creamos además zanjas de infiltración subterráneas que ayudan al agua a volver poco a poco al suelo.",
+        "**Eso también es una plaza moderna: no solo se ve bien, sino que soporta mejor el calor y las lluvias torrenciales.**"
+      ]
+    },
+    "rain": {
+      "title": "¿Y cómo funciona cuando llueve en la plaza SNP?",
+      "body": [
+        "El agua de lluvia corre desde la superficie hacia unas tuberías bajo la plaza y de ahí a un gran depósito de retención en su parte baja. Allí la recogemos y dejamos que se infiltre poco a poco en la tierra.",
+        "Si hay demasiada agua y el suelo no da abasto, una bomba la envía de vuelta a la parte alta del sistema. Desde allí, unas tuberías perforadas la reparten bajo las zonas verdes, donde tiene más espacio y tiempo para infiltrarse.",
+        "Solo cuando ni eso basta, el agua sobrante va con seguridad al alcantarillado pluvial.",
+        "En lugar de sacar la lluvia del centro lo antes posible, le damos la oportunidad de seguir siendo parte de la ciudad."
+      ],
+      "diagram": {
+        "title": "Cómo funciona el sistema de agua de lluvia bajo la plaza",
+        "irrigation": "Riego de las zonas verdes con agua de lluvia",
+        "treePits": "Alcorques con plantación baja",
+        "permeableSurface": "Superficies pavimentadas permeables",
+        "permeableConcrete": "Hormigón permeable como capa base",
+        "pump": "Bomba",
+        "tank": "Depósito de retención para recoger el agua de lluvia"
+      }
+    },
+    "stops": {
+      "title": "Paradas en las que se sube mejor",
+      "body": [
+        "**Un pequeño paso para el hombre… y de eso se trataba precisamente.** Por fin basta un pequeño paso. Por fin este andén de Špitálska es accesible y seguro. En Špitálska, en lugar de un tramo de vías sin uso, construimos una nueva isla tranviaria para la parada Centrum. Los pasajeros ya no tienen que subir y bajar directamente a la calzada: tienen su propio espacio seguro para esperar y un acceso al tranvía más cómodo y sin barreras.",
+        "También renovamos las paradas Centrum frente al Mercado. El granito sustituyó al asfalto, elevamos los bordes de los andenes y los conectamos con la plaza sin escalones. Se añadieron marquesinas iluminadas, paneles informativos, máquinas de billetes, franjas guía táctiles y bancos."
+      ],
+      "caption": "Subir con más seguridad, menos barreras, más dignidad. Así es una ciudad que piensa en todos."
+    },
+    "memorialSpace": {
+      "title": "Devolvimos su espacio al Monumento SNP",
+      "body": [
+        "El respeto al legado del Levantamiento Nacional Eslovaco no debería limitarse a una corona una vez al año. También por eso renovamos la Plaza Viva y dimos una forma digna al espacio que rodea el Monumento SNP, para que sea más visible, más accesible y parte natural de la vida diaria de la ciudad. Delante del monumento creamos un nuevo paseo, ampliamos el espacio para peatones y eliminamos el aparcamiento en batería. Porque la memoria histórica no debería quedarse a un lado de la vida. Debe formar parte de ella."
+      ],
+      "caption": "El Monumento SNP es hoy más accesible y forma parte de la plaza con más naturalidad."
+    },
+    "churchOutline": {
+      "title": "Cuando llueve y no se seca, aparece el pasado",
+      "body": [
+        "También en la plaza de la Revolución de Terciopelo pensamos en la historia, que es una parte importante de nuestra ciudad. Por eso el proyecto contó desde el principio con un tipo especial de pavimento que dibuja la planta de la iglesia de San Lorenzo, que estuvo justo en este lugar.",
+        "Este detalle se aprecia mejor después de la lluvia: el agua se queda un poco más en las ranuras del pavimento y durante un rato dibuja sobre la plaza el contorno brillante de la antigua iglesia.",
+        "Así, un lugar desaparecido hace siglos vuelve por un momento después de cada lluvia."
+      ]
+    },
+    "stay": {
+      "title": "Una plaza no es solo un lugar de paso",
+      "body": [
+        "Añadimos nuevos bancos bratislavenses, papeleras y aparcabicis. Cambiamos los postes del tendido del tranvía y el alumbrado público, para que el espacio sea agradable y seguro también por la noche, y ordenamos muchos pequeños elementos que, juntos, deciden si un espacio público resulta agradable o caótico.",
+        "Porque no queremos que solo atravieses el centro. Queremos que tengas un motivo para quedarte."
+      ],
+      "captions": {
+        "lawn-benches": "La plaza no solo ha ganado árboles, sino todo un nuevo sistema de vegetación. Además de los 29 árboles hay plantación baja y césped que ayudan a refrescar el espacio y a retener el agua."
+      }
+    },
+    "medieval": {
+      "title": "La Edad Media no terminó, sigue aquí…",
+      "body": [
+        "Bajo la plaza actual se esconde todavía un trozo de la Bratislava medieval. Y es justo aquí, durante la renovación, donde el futuro de la ciudad se encuentra con su pasado.",
+        "Ya en la Edad Media, justo fuera de las murallas, se alzaba aquí la iglesia parroquial de San Lorenzo. A su alrededor se extendía un cementerio del que formaba parte la capilla de Santiago con su osario. Todo el conjunto pertenecía a un importante arrabal de la Bratislava de entonces. La iglesia y la parte exterior de la capilla fueron demolidas en 1529 como parte de las defensas ante un inminente ataque otomano.",
+        "**Pero bajo tierra se quedó gran parte de esta historia.** El osario y el cementerio se usaron durante siglos, hasta la prohibición de enterrar en las ciudades en el siglo XVIII. Sus restos yacen hoy justo bajo los pies de las miles de personas que cruzan a diario la plaza SNP. La actual cubierta de vidrio protege solo una parte del yacimiento arqueológico.",
+        "Por eso en la antigua capilla de Santiago se han hecho y se seguirán haciendo trabajos, en parte invisibles desde fuera, que preparan el terreno para que en el futuro se pueda construir aquí un nuevo pabellón a la altura de la importancia del yacimiento, con todo lo necesario: acceso sin barreras, un recorrido para visitantes y una exposición cuyas piezas principales sean las propias estructuras medievales. Aun así, esas estructuras ya merecen hoy una presentación más digna, así que la ciudad ha renovado ya el edificio de protección existente: cambiamos el tejado deteriorado, sustituimos el acristalamiento original por vidrio de seguridad, renovamos los revocos y añadimos nueva instalación eléctrica, iluminación y elementos de acero inoxidable que hacen el acceso al osario más sencillo y seguro.",
+        "El objetivo no es solo proteger esta capa de la ciudad, sino hacerla accesible de verdad y contar a través de ella la historia de la Bratislava que estuvo aquí mucho antes que nosotros."
+      ],
+      "box": {
+        "text": "En el centro de esta renovación hay también un lugar de un significado mucho más profundo: el memorial a Ján Kuciak y Martina Kušnírová. Durante las obras se guardó temporalmente para poder volver a su lugar original, que hoy es nuevo y más digno. Porque la plaza puede cambiar. Pero el recuerdo de Ján y Martina debe seguir siendo una parte firme de ella.",
+        "quote": "«¡No me des las gracias, recuerda!» Así solía responder Ján Kuciak a los amigos que le agradecían su ayuda. Hoy esa frase la lleva también el memorial a Ján y Martina en la plaza SNP."
+      },
+      "captions": {
+        "ossuary": "La capilla de Santiago guarda los restos del edificio religioso más antiguo de Bratislava, del siglo XI. Forma parte de ella un osario con miles de huesos y cráneos humanos."
+      }
+    },
+    "circleCloses": {
+      "title": "Y el círculo se cierra…",
+      "body": [
+        "Empezamos con círculos naranjas que debían mostrar lo que este espacio podía llegar a ser. Hoy ya no necesitamos pintar esa idea sobre el asfalto.",
+        "La primera gran etapa está terminada; la segunda, la plaza Kamenné, aún está por llegar. A partir de ahora, la parte más importante de la Plaza Viva será lo que no se puede proyectar ni construir: **la vida que tú le des.**"
+      ],
+      "caption": "Un centro urbano de calidad no es un lujo. Es el estándar que Bratislava merece.",
+      "credits": "Por los materiales y las fotografías damos las gracias a las asociaciones Aliancia Stará tržnica y Bratislavské rožky, al fotógrafo Marek Velček, al Instituto Municipal de Protección del Patrimonio y al Archivo de la Ciudad de Bratislava."
+    }
+  }
+}

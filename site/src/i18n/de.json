@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "name": "Deutsch",
+    "htmlLang": "de",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Živé námestie erwacht zum Leben",
+    "description": "Die Geschichte des SNP-Platzes in Bratislava, von mittelalterlichen Märkten bis zur Erneuerung des Živé námestie (Lebendiger Platz). Die digitale Fassung der Ausstellung auf dem Platz.",
+    "skipToContent": "Zum Inhalt springen",
+    "language": "Sprache",
+    "partHistory": "Die Geschichte des Platzes",
+    "partToday": "Der neue Platz",
+    "timelineTitle": "Wie sich der Name des SNP-Platzes im Lauf der Jahrhunderte änderte",
+    "before": "Vorher",
+    "after": "Nachher",
+    "showAnswer": "Antwort zeigen",
+    "sourceNote": "Diese Seite erzählt die Freiluftausstellung „Živé námestie oživa“ (Der Lebendige Platz erwacht) nach, die auf dem SNP-Platz in Bratislava zu sehen ist. Aus dem Slowakischen übersetzt.",
+    "backToTop": "Nach oben",
+    "chooseLanguage": "Sprache wählen",
+    "photoCredits": "Vorher-nachher-Fotos, das Regenwasser-Schema und die Fotos des neuen Platzes: © Stadt Bratislava (bratislava.sk), Fotos von Marek Velček. Schnelle Verbesserungen und historische Fotos aus der historischen Studie von 2016: Živé námestie / Metropolitan-Institut Bratislava, CC BY-NC-SA 3.0 (Foto von 1933: Stadtarchiv Bratislava; Markt in den 1940er-Jahren: Sammlung Juraj Horváth). November 1989: Helena Bakaljarová, Volkskundemuseum Wien, CC0. Beinhaus: Kiwiev, Wikimedia Commons, CC0. Alle anderen Bilder wurden in der Ausstellung auf dem Platz fotografiert."
+  },
+  "sections": {
+    "intro": {
+      "kicker": "Živé námestie",
+      "badge": "erwacht",
+      "title": "Von orangefarbenen Kreisen bis heute und noch weiter",
+      "body": [
+        "Jahrelang wurde darüber gesprochen, den zentralen öffentlichen Raum aus drei Plätzen (SNP-Platz, Platz der Sanften Revolution und Kamenné-Platz) umzugestalten und zu vereinen. Einer der belebtesten und wichtigsten Orte im Herzen Bratislavas wirkte bis vor Kurzem eher unbestimmt und zusammengewürfelt. Das Projekt Živé námestie (Lebendiger Platz) hat das geändert: Hier entsteht ein hochwertiger Raum, den das Stadtzentrum wirklich verdient. Zuerst auf dem SNP-Platz und dem Platz der Sanften Revolution, in der nächsten Etappe folgt der Kamenné-Platz. Den Anstoß zur Erneuerung und Vereinigung des Lebendigen Platzes gab die Initiative Aliancia Stará tržnica (Allianz Alte Markthalle). 2019 schrieb die Stadt gemeinsam mit dem Metropolitanen Institut Bratislava einen Architekturwettbewerb in Form eines Wettbewerblichen Dialogs aus."
+      ]
+    },
+    "cityEdge": {
+      "title": "Hier endete einst Bratislava.",
+      "body": [
+        "Im Mittelalter verliefen entlang des heutigen SNP-Platzes die Stadtmauern. Der Raum, den wir heute als das Zentrum schlechthin wahrnehmen, lag damals praktisch **vor der Stadt**. Vor den Mauern wurde jedoch gehandelt, und aus diesen Märkten entstand nach und nach der heutige Platz. Einer seiner ältesten bekannten Namen war **Brotmarkt**, und schon das städtische Rechnungsbuch von 1506 erwähnt einen Backofen beim Laurinzer Tor."
+      ],
+      "captions": {
+        "map-wagner": "Stadtplan von Bratislava, 19. Jahrhundert, von Eduard Wagner, erschienen in Darmstadt",
+        "engraving-church": "Kirche der Barmherzigen Brüder auf dem SNP-Platz, Kupferstich (Fotoreproduktion)."
+      }
+    },
+    "napoleon": {
+      "title": "Ein kleines Stück großer Geschichte",
+      "body": [
+        "Man schrieb das Jahr 1809, und Napoleons Truppen beschossen Bratislava vom Petržalka-Ufer der Donau aus. Fast 4 000 Geschosse wurden auf die Stadt abgefeuert. Viele landeten auf dem heutigen SNP-Platz. Kanonenkugeln pfiffen, Häuser stürzten ein, der größte Teil des Platzes wurde verwüstet.",
+        "Eines der wenigen Gebäude, das die Bombardierung wie durch ein Wunder überstand, steht noch heute hier: das Kloster der Barmherzigen Brüder. Und es trägt bis heute eine Erinnerung an dieses Ereignis in sich: eine der originalen Kanonenkugeln Napoleons. Nicht hinter Glas im Museum, sondern direkt in der Fassade.",
+        "Wenn Sie also das nächste Mal über den Platz gehen, versuchen Sie, sie zu finden. Es ist ein kleines Stück großer Geschichte, das den Platz seit mehr als 200 Jahren beobachtet."
+      ],
+      "captions": {
+        "napoleon-ball": "Die Kugel ist in die Fassade des Krankenhauses der Barmherzigen Brüder eingemauert, neben einem der Eingänge, etwa zwei Meter über dem Boden."
+      }
+    },
+    "smell": {
+      "title": "Ein Ort, den man riechen konnte!",
+      "body": [
+        "Schon die Namen der einzelnen Teile des Platzes erzählen viel über seinen Alltag: **Weizenmarkt, Brotmarkt, Grüner Markt, Geflügelmarkt…** Jeden Dienstag und Freitag wurden hier Obst, Gemüse, Geflügel und Eier verkauft. **1879 legte die Stadt mehrere bisherige Marktflächen verwaltungsmäßig zu einem einzigen Marktplatz zusammen**, und Ende des 19. Jahrhunderts wurde der heutige Lebendige Platz zum wichtigsten Marktplatz Bratislavas. Der Obere Markt lag etwa dort, wo heute das SNP-Denkmal steht, der Brotmarkt vor der heutigen Alten Markthalle und der Geflügelmarkt in Richtung Kamenné-Platz.",
+        "Ein steriles Zentrum war das nicht gerade. Die Presse beschrieb den Marktplatz 1901 als so schmutzig, dass die Schuhe der Besucher nach einem Spaziergang **„mit einer Flüssigkeit von unbeschreiblichem Geruch imprägniert“** waren. Chaos, Hygiene und die Notwendigkeit, die wachsende Stadt besser zu versorgen, waren einige der Gründe, warum Bratislava eine städtische Markthalle baute.",
+        "Die Alte Markthalle wurde **1910** eröffnet. Auf rund 1 000 m² bot sie **Platz für bis zu 900 Händler.** Ihrem Zweck diente sie genau 50 Jahre. Und danach? Ab 1960 waren darin Lager und Studios des Slowakischen Fernsehens untergebracht."
+      ],
+      "captions": {
+        "street-1930s": "Historischer Blick auf den Platz mit der Alten Markthalle.",
+        "market-1928": "Marktstände auf dem Platz vor der Alten Markthalle."
+      }
+    },
+    "chicago": {
+      "title": "„Chicago“ in Bratislava",
+      "body": [
+        "Die Zwischenkriegszeit brachte dem Platz mehrere Bauten, die das Stadtzentrum bis heute prägen. In kurzer Zeit entstanden hier vier markante neue Gebäude: die Städtische Sparkasse (das heutige Gebäude der Slovenská sporiteľňa an der Ecke Štúrova und Dunajská), die Genossenschaftshäuser (gegenüber der Alten Markthalle), Brouk a Babka (das Gebäude des „alten“ Kaufhauses Dunaj) und das Manderla-Haus, genannt „Manderlák“.",
+        "1936 wuchs hier der Manderlák empor, Bratislavas erster „Wolkenkratzer“. Er war 45 Meter hoch und wurde für den Unternehmer und Metzger Rudolf Manderla gebaut, der sich angeblich von Chicago inspirieren ließ. Im Erdgeschoss hatte er seine Metzgerei, später befanden sich dort auch die beliebte Garküche Satinský und das Café Grand, wo sich die Elite Bratislavas traf.",
+        "Auch die Städtische Sparkasse von Juraj Tvarožek war für ihre Zeit eine architektonische Besonderheit: das erste Gebäude der Slowakei mit einer **Glasfassade, die an einem Stahlbetonskelett hängt**. Der Bau steht auf 584 Stahlbetonpfählen."
+      ],
+      "captions": {
+        "manderlak-1949": "Bratislavas Chicago: der Manderlák, im Hintergrund der Markt vor der Alten Markthalle. 1949",
+        "brouk-plan-1935": "Bohuslav Brouk, das erste Kaufhaus in Bratislava, Architekt Christian Ludwig, 1935",
+        "brouk-night": "Brouk a Babka (Bohuslav Brouk) wusste auch nach Ladenschluss zu glänzen."
+      }
+    },
+    "stalin": {
+      "title": "Der Platz, auf dem Stalin seine Hose festhielt…",
+      "body": [
+        "Nach dem Zweiten Weltkrieg begann sich der Raum nicht nur architektonisch, sondern auch ideologisch zu verändern.",
+        "1949 kam es zu einem bedeutenden Schritt: Eine Stalin-Statue wurde aufgestellt. Sie ersetzte den Caroline-Augusta-Brunnen, der seit 1828 an dieser Stelle stand. Der Platz, der schon seit 1945 Stalins Namen trug, bekam durch seine monumentale Statue einen noch stärkeren ideologischen Anstrich. Lange blieb die Statue jedoch nicht. Im August 1962 wurde sie im Zuge der Entstalinisierung entfernt.",
+        "Erhalten hat sich eine herrliche Lokalanekdote: Aus einem bestimmten Blickwinkel soll Stalin ausgesehen haben, als hielte er mit der Hand seine Hose fest. Die Bratislavaer witzelten deshalb: **„Stalin hält seine Hose fest, weil sie auf dem Platz die öffentliche Toilette geschlossen haben.“**"
+      ],
+      "captions": {
+        "stalin-workshop": "Ein Arbeiter und die Bauaufsicht bei der Arbeit am Denkmal für J. W. Stalin.",
+        "stalin-scaffold": "Ob er wirklich seine Hose festhielt, bleibt für immer ein Rätsel."
+      }
+    },
+    "kamenne": {
+      "title": "Vom Kamenné-Platz zum Kiewer Platz und zurück",
+      "body": [
+        "Der Name „Kamenné“ (Steinerner Platz) war wörtlich gemeint. Die Häuser rund um diesen ursprünglich winzigen Platz gehörten der Steinmetzfamilie **Rumpelmayer**, die im Hof Steine und Säulen lagerte und bearbeitete. Daher die Namen Steinmetzplatz, Steinplatz und schließlich Kamenné námestie.",
+        "Die größte Veränderung kam in den 1960er-Jahren. Von **1962 bis 1965** wurde die ursprüngliche Blockbebauung des Kamenné-Platzes abgerissen. Häuser, Geschäfte, das Hotel Rudolf und die bekannte Eisenhandlung Neurath verschwanden und machten Platz für einen völlig neuen modernistischen Komplex.",
+        "1960 fand ein Wettbewerb für ein neues Handels- und Gesellschaftszentrum statt. Der Entwurf des damals erst etwa dreißigjährigen Architekten **Ivan Matušík** brachte das Kaufhaus Prior und später das Hotel Kyjev. Prior entstand 1964 bis 1968, das Hotel wurde 1973 fertiggestellt. Der Ort erhielt damals den Namen **Kiewer Platz**, nach Bratislavas Partnerstadt; den Namen Kamenné námestie bekam er erst 1990 zurück.",
+        "Matušíks Komplex war zu seiner Zeit ein Experiment. Wie er selbst erzählte, **suchten die Architekten in der Tschechoslowakei damals, wie ein modernes Kaufhaus aussehen soll.** Und sie fanden es.",
+        "Die Ambitionen waren noch viel größer. Die Špitálska-Straße sollte zu einem breiten Boulevard in Richtung Krížna werden, und weitere historische Blöcke sollten verschwinden. Die Pläne wurden jedoch nie vollendet. Deshalb spürt man hier bis heute den Zusammenprall zweier Städte: des alten, kompakten Zentrums und der sozialistischen Vorstellung einer offenen, modernen Stadt."
+      ],
+      "captions": {
+        "may-day": "Feier zum 1. Mai. Umzug vor der Kirche der Barmherzigen Brüder mit Apotheke auf dem SNP-Platz.",
+        "lower-square-1933": "Der untere Teil des SNP-Platzes. Vorne ein Tabakkiosk, links die Eisenhandlung Neurath und das Hotel Rudolf (beim Bau des Kaufhauses Prior abgerissen), rechts bis heute erhaltene Häuser. 1933",
+        "spitalska": "Die Špitálska-Straße vom SNP-Platz aus. Rechts das Haus mit dem Volkseigenen Betrieb Zdroj, dahinter der Kamenné-Platz, links der Verband der bäuerlichen Spar- und Darlehenskassen."
+      }
+    },
+    "memorial1974": {
+      "title": "1974: das Denkmal, das den oberen Platz neu prägte",
+      "body": [
+        "1974, zum 30. Jahrestag des Slowakischen Nationalaufstands (SNP), wurde das heutige SNP-Denkmal enthüllt. Ursprünglich gehörten dazu auch drei Brenner, die eine ewige Flamme symbolisierten.",
+        "So entstand innerhalb etwa eines Jahrzehnts das Gesicht des Gebiets, das die Bratislavaer die nächsten fünfzig Jahre kannten: an einem Ende das modernistische Prior und Kyjev, am anderen das monumentale SNP-Denkmal."
+      ]
+    },
+    "revolution": {
+      "title": "Und dann wurde hier wieder Geschichte geschrieben",
+      "body": [
+        "Der Name SNP-Platz erwies sich als fast prophetisch: Ein Raum, über Jahrhunderte vom Handel geformt und von Regimen umgebaut, wurde wieder zu einem Ort des bürgerlichen und politischen Lebens.",
+        "Mit den Ereignissen vom November 1989 verbindet sich heute auch eine Gedenktafel am Gebäude der Barmherzigen Brüder. Ihr Text erinnert daran, dass Menschen genau an diesem Ort beschlossen, „die Verantwortung für die Zukunft in die eigenen Hände zu nehmen“ und das kommunistische Regime zu beenden. Der Ort, an dem Bratislava im November ’89 nach Freiheit rief, erhielt zum 30. Jahrestag dieser Ereignisse den Namen Platz der Sanften Revolution.",
+        "Und das ist vielleicht das Interessanteste am ganzen Gebiet. Über Jahrhunderte änderte es Namen, Funktion und Gestalt, doch eines blieb: Es war der Ort, an dem sich die Bratislavaer trafen. Zuerst wegen Brot, Gemüse und Geflügel. Später zum Einkaufen und auf einen Kaffee. Dann bei politischen Kundgebungen und Demonstrationen. Und die Geschichte ist noch nicht zu Ende…"
+      ],
+      "captions": {
+        "november-1989": "November 1989"
+      }
+    },
+    "whatNext": {
+      "title": "Und was dann?",
+      "body": [
+        "Die Freiheit hatten wir uns erklingelt, doch der Platz suchte noch nach seiner neuen Gestalt. In den 90er-Jahren ging hier ohne größere Vision ein kleiner „Asphaltbarock“ weiter, und nach und nach entstand ein bizarrer Musterkatalog aus Materialien. Bis…"
+      ]
+    },
+    "circles": {
+      "title": "Am Anfang waren die Kreise…",
+      "quiz": {
+        "question": "Die berühmten orangefarbenen Kreise sollten dienen als:",
+        "options": [
+          "Navigation für möglichen Besuch aus dem All",
+          "klarer Hinweis für Fußgänger auf den neuen Raum, den sie nutzen können",
+          "Riesen-Tic-Tac-Toe für Anspruchslose"
+        ],
+        "answer": 1
+      },
+      "body": [
+        "Ja, B. B ist richtig. Die orangefarbenen Kreise sollten einfach zeigen, wie sich der Raum neu nutzen lässt, und ohne einen einzigen Bagger einen kleinen Vorgeschmack auf die Zukunft geben. Auf einen Platz, der größer und einheitlicher sein und viel mehr wie ein echter Platz funktionieren würde. Bevor gebaut werden konnte, lag jedoch noch ein schwieriger Weg vor uns, und so blieben die Kreise länger als ursprünglich geplant.",
+        "Wir begannen mit schnellen städtebaulichen Verbesserungen, sogenannten „Quick Wins“. In der Klobučnícka-Straße kamen neue Bäume hinzu, und auf dem SNP-Platz erweiterten wir die Flächen, die Fußgänger sicher nutzen konnten. Gleichzeitig entstanden Analysen, Erhebungen, Fragebögen, Simulationen und Gespräche mit den Menschen und Akteuren, die den Raum täglich nutzen.",
+        "Dann folgte ein internationaler Architekturwettbewerb in Form eines Wettbewerblichen Dialogs, der allererste in der Slowakei. Daraus ging der Siegerentwurf des Teams Atelier LOIDL in Zusammenarbeit mit den Verkehrsplanern BPR Dr. Schäpertöns Consult hervor.",
+        "Ihr Entwurf hatte ein einfaches Ziel: dem Zentrum die Qualität zu geben, die es verdient. Mehr Raum für Menschen. Weniger Barrieren. Hochwertige Steinoberflächen. Mehr Grün und Wasser. Dann kamen geologische und denkmalpflegerische Untersuchungen, Planung, Genehmigungen und die Auswahl der Baufirma.",
+        "Es folgten Jahre weniger sichtbarer, aber unverzichtbarer Arbeit: geotechnische und denkmalpflegerische Untersuchungen, die Ausarbeitung des Entwurfs zur Ausführungsplanung und die Auswahl der Baufirma.",
+        "**Im Oktober 2025 haben wir mit dem Bau begonnen. Und heute ist die erste Etappe fertig.**"
+      ],
+      "caption": "Schnelle Verbesserungen auf dem SNP-Platz: Raum für Menschen statt auf dem Gehweg parkender Autos.",
+      "captions": {
+        "orange-circles": "Die orangefarbenen Kreise waren ein vorübergehender Eingriff nach den Prinzipien des taktischen Urbanismus, den Städte weltweit nutzen, von New York bis Mailand. Mit Farbe und Stadtmobiliar zeigten sie schon vor dem großen Umbau, dass der Raum eine neue Funktion hat. Übrigens: Rudo Sikoras Skulptur Výkričník (Ausrufezeichen) hat mit den Kreisen zwar nichts zu tun, hat den Lebendigen Platz aber definitiv belebt."
+      }
+    },
+    "barriers": {
+      "title": "Weniger Barrieren, ein einheitlicherer Raum",
+      "body": [
+        "Der Platz war früher fast ein Musterkatalog von Oberflächen: Schotter und Staub und… Asphalt, Beton, verschiedene Pflaster, Bordsteine und vor allem Höhenunterschiede, die Tausenden Menschen täglich das Leben erschwerten.",
+        "Deshalb haben wir vereinheitlicht. Beton und Asphalt haben wir weitgehend durch hochwertiges Granitpflaster ersetzt und die Oberflächen so weit wie möglich auf eine Ebene gebracht. Wir haben unnötige Barrieren entfernt und neue, natürlichere Fußwege geschaffen.",
+        "Ein neuer Gehweg führt zum Beispiel vor dem SNP-Denkmal entlang. Die Špitálska-Straße haben wir besser mit der Haltestelle Centrum gegenüber der Alten Markthalle verbunden. Und der ganze Platz ist heute einfacher zu nutzen für Menschen im Rollstuhl, Eltern mit Kinderwagen und alle, die hier einfach durchgehen.",
+        "Im Stadtzentrum sollte es schließlich kein Abenteuer sein, von A nach B zu kommen."
+      ],
+      "captions": {
+        "fewer-barriers": "Weniger Barrieren, mehr Raum für Menschen."
+      }
+    },
+    "greenery": {
+      "title": "Mehr Schatten. Mehr Grün. Mehr Leben.",
+      "list": {
+        "title": "In der ersten Etappe kamen hinzu:",
+        "items": [
+          "**250 m³ Wurzelzellen**, die den Bäumen mehr Wurzelraum und besseren Zugang zu Feuchtigkeit geben,",
+          "**rund 130 m² Rasenflächen**,",
+          "**406 m² Unterpflanzung**,",
+          "**29 neue Bäume**, zum Beispiel Zürgelbäume, Eschen und Japanische Schnurbäume,",
+          "**Zierzwiebelpflanzen**,",
+          "und **eine neue grüne Insel** an der Ecke SNP-Platz und Špitálska."
+        ]
+      },
+      "body": [
+        "Wir haben die Grünflächen erweitert, den Wurzelraum bestehender Bäume vergrößert, Unterpflanzungen ergänzt und neue Bäume sowie Zierzwiebeln gepflanzt. Und vielleicht ist Ihnen aufgefallen, dass an der Ecke SNP-Platz und Špitálska eine ganz neue grüne Insel entstanden ist.",
+        "Einige ursprüngliche Bäume mussten wir wegen Konflikten mit Leitungen oder benachbarten Bauten an andere Stellen versetzen. Das Ergebnis ist aber einfach: Heute stehen hier mehr Bäume als vor dem Umbau."
+      ],
+      "captions": {
+        "tree-planting": "Den Schatten, den wir heute haben, pflanzten Generationen vor uns. An uns ist es, das fortzusetzen. Für die Stadt von heute, aber auch für die Zukunft.",
+        "tree-street": "Eine gute Stadt ist eine, in der man sich gut bewegen und gut verweilen kann, zum Beispiel im Schatten der Bäume."
+      }
+    },
+    "underground": {
+      "title": "Das Wichtigste liegt oft unter der Oberfläche",
+      "body": [
+        "Unter dem Platz haben wir ein ganz neues System gebaut, das Regenwasser auffängt und allmählich versickern lässt. Wir haben wasserdurchlässige Oberflächen und Tragschichten verwendet, leiten Wasser direkt zu den Bäumen und haben unter der Erde große Retentionsbehälter eingebaut. So verschwindet Regenwasser nicht unnötig in der Kanalisation, sondern kann dort genutzt werden, wo die Stadt es braucht, zum Beispiel für das Grün. An den Rasenflächen haben wir zudem unterirdische Sickerrigolen angelegt, die dem Wasser helfen, nach und nach in den Boden zurückzukehren.",
+        "**Auch darum geht es bei einem modernen Platz: Er sieht nicht nur gut aus, sondern kommt auch besser mit Hitze und Starkregen zurecht.**"
+      ]
+    },
+    "rain": {
+      "title": "Und wie funktioniert das, wenn es auf dem SNP-Platz regnet?",
+      "body": [
+        "Regenwasser fließt von der Oberfläche in Rohre unter dem Platz und von dort in einen großen Retentionsbehälter an seinem unteren Ende. Dort fangen wir es auf und lassen es allmählich wieder in den Boden versickern.",
+        "Ist zu viel Wasser da und kann der Boden es nicht schnell genug aufnehmen, pumpt eine Pumpe es zurück in den oberen Teil des Systems. Von dort verteilt es sich über perforierte Rohre unter die Grünflächen, wo es mehr Raum und Zeit zum Versickern bekommt.",
+        "Erst wenn auch das nicht reicht, fließt das überschüssige Wasser sicher in die Regenwasserkanalisation.",
+        "Statt den Regen so schnell wie möglich aus dem Zentrum abzuleiten, geben wir ihm die Chance, Teil der Stadt zu bleiben."
+      ],
+      "diagram": {
+        "title": "So funktioniert das Regenwassersystem unter dem Platz",
+        "irrigation": "Bewässerung des Stadtgrüns mit Regenwasser",
+        "treePits": "Baumgruben mit Unterpflanzung",
+        "permeableSurface": "Wasserdurchlässige befestigte Flächen",
+        "permeableConcrete": "Wasserdurchlässiger Beton als Tragschicht",
+        "pump": "Pumpe",
+        "tank": "Retentionsbehälter zum Auffangen von Regenwasser"
+      }
+    },
+    "stops": {
+      "title": "Haltestellen, an denen man besser einsteigt",
+      "body": [
+        "**Ein kleiner Schritt für einen Menschen… und genau darum ging es hier.** Endlich genügt ein kleiner Schritt. Endlich ist dieser Bahnsteig in der Špitálska barrierefrei und sicher. In der Špitálska haben wir anstelle eines ungenutzten Gleisbereichs eine neue Straßenbahninsel für die Haltestelle Centrum gebaut. Fahrgäste müssen nicht mehr direkt auf die Fahrbahn ein- und aussteigen: Sie haben einen eigenen sicheren Wartebereich und einen bequemeren, barrierefreieren Einstieg in die Straßenbahn.",
+        "Erneuert haben wir auch die Haltestellen Centrum vor der Markthalle. Granit ersetzte den Asphalt, wir haben die Bahnsteigkanten erhöht und die Bahnsteige barrierefrei mit dem Platz verbunden. Neu sind beleuchtete Wartehäuschen, Informationstafeln, Fahrkartenautomaten, Blindenleitstreifen und Bänke."
+      ],
+      "caption": "Sichereres Einsteigen, weniger Barrieren, mehr Würde. So sieht eine Stadt aus, die an alle denkt."
+    },
+    "memorialSpace": {
+      "title": "Wir haben dem SNP-Denkmal seinen Raum zurückgegeben",
+      "body": [
+        "Respekt vor dem Vermächtnis des Slowakischen Nationalaufstands sollte nicht nur ein Kranz einmal im Jahr sein. Auch deshalb haben wir den Lebendigen Platz erneuert und dem Raum um das SNP-Denkmal eine würdige Gestalt gegeben, damit es sichtbarer, zugänglicher und ein natürlicher Teil des Alltags in der Stadt ist. Vor dem Denkmal haben wir einen neuen, natürlichen Gehweg angelegt, den Raum für Fußgänger erweitert und das Querparken entfernt. Denn historisches Gedächtnis sollte nicht irgendwo abseits des Lebens stehen. Es soll Teil davon sein."
+      ],
+      "caption": "Das SNP-Denkmal ist heute zugänglicher und gehört selbstverständlicher zum Platz."
+    },
+    "churchOutline": {
+      "title": "Wenn es regnet und nicht trocknet, erscheint die Vergangenheit",
+      "body": [
+        "Auch auf dem Platz der Sanften Revolution denken wir an die Geschichte, die ein wichtiger Teil unserer Stadt ist. Der Entwurf sah deshalb von Anfang an ein besonderes Pflaster vor, das den Grundriss der Kirche St. Laurentius nachzeichnet, die einst genau an dieser Stelle stand.",
+        "Dieses Detail bemerken Sie am besten nach einem Regen: Das Wasser bleibt etwas länger in den Rillen des Pflasters und zeichnet für eine Weile den glänzenden Umriss der einstigen Kirche auf die Oberfläche des Platzes.",
+        "So kehrt ein Ort, der vor Jahrhunderten verschwand, nach jedem Regen für einen Moment zurück."
+      ]
+    },
+    "stay": {
+      "title": "Ein Platz ist nicht nur ein Ort zum Durchgehen",
+      "body": [
+        "Wir haben neue Bratislavaer Bänke, Abfallkörbe und Fahrradständer ergänzt. Wir haben die Oberleitungsmasten und die öffentliche Beleuchtung erneuert, damit der Raum auch abends angenehm und sicher ist, und viele kleine Elemente aufgeräumt, die zusammen darüber entscheiden, ob ein öffentlicher Raum angenehm oder chaotisch wirkt.",
+        "Denn wir wollen nicht, dass Sie das Zentrum nur durchqueren. Wir wollen, dass Sie einen Grund haben zu bleiben."
+      ],
+      "captions": {
+        "lawn-benches": "Auf dem Platz sind nicht nur Bäume hinzugekommen, sondern ein ganzes neues Vegetationssystem. Neben den 29 Bäumen gibt es neue Unterpflanzungen und Rasenflächen, die den Raum kühlen und Wasser zurückhalten."
+      }
+    },
+    "medieval": {
+      "title": "Das Mittelalter ist nicht vorbei, es dauert an…",
+      "body": [
+        "Unter dem heutigen Platz verbirgt sich nämlich bis heute ein Stück mittelalterliches Bratislava. Und genau hier trifft bei der Erneuerung die Zukunft der Stadt auf ihre Vergangenheit.",
+        "Schon im Mittelalter stand hier, direkt vor den Stadtmauern, die Pfarrkirche St. Laurentius. Um sie herum erstreckte sich ein Friedhof, zu dem auch die Jakobskapelle mit Beinhaus gehörte. Das gesamte Areal gehörte zu einer bedeutenden Vorstadt des damaligen Bratislava. Die Kirche und der oberirdische Teil der Kapelle wurden 1529 als Teil der Verteidigungsmaßnahmen gegen einen drohenden türkischen Angriff abgerissen.",
+        "**Unter der Erde ist aber ein großer Teil dieser Geschichte geblieben.** Beinhaus und Friedhof wurden noch Jahrhunderte lang genutzt, bis zum Verbot von Bestattungen in den Städten im 18. Jahrhundert. Ihre Überreste liegen heute direkt unter den Füßen der Tausenden Menschen, die täglich über den SNP-Platz gehen. Der heutige gläserne Schutzbau schützt dabei nur einen Teil der archäologischen Fundstätte.",
+        "An der einstigen Jakobskapelle liefen und laufen deshalb Arbeiten, die zum Teil von außen nicht sichtbar sind. Doch gerade sie schaffen die Voraussetzungen dafür, dass hier künftig ein neuer Pavillon entstehen kann, der der Bedeutung dieser Fundstätte gerecht wird, mit allem, was dazugehört: barrierefreiem Zugang, Besucherweg und einer Ausstellung, deren wichtigste Exponate die mittelalterlichen Bauten selbst bleiben. Diese mittelalterlichen Bauten verdienen aber schon heute eine würdigere Präsentation, und so hat die Stadt bereits jetzt den bestehenden Schutzbau renoviert: Wir haben das schadhafte Dach ersetzt, die ursprüngliche Verglasung gegen Sicherheitsglas getauscht, den Putz erneuert und neue Elektroinstallation, Beleuchtung und Edelstahlelemente ergänzt, die den Zugang zum Beinhaus einfacher und sicherer machen.",
+        "Ziel ist es, diese Schicht der Stadt nicht nur zu schützen, sondern auch gut zugänglich zu machen und durch sie die Geschichte des Bratislava zu erzählen, das hier lange vor uns war."
+      ],
+      "box": {
+        "text": "Inmitten dieser Erneuerung liegt auch ein Ort mit viel tieferer Bedeutung: das Denkmal für Ján Kuciak und Martina Kušnírová. Während des Umbaus wurde es vorübergehend eingelagert, damit es an seinen ursprünglichen Platz zurückkehren konnte. Dieser ist heute neu und würdiger. Denn der Platz darf sich verändern. Die Erinnerung an Ján und Martina aber muss ein fester Teil von ihm bleiben.",
+        "quote": "„Bedank dich nicht, erinnere dich!“ So antwortete Ján Kuciak Freunden, wenn sie sich für seine Hilfe bedankten. Heute trägt auch das Denkmal für Ján und Martina auf dem SNP-Platz diesen Satz."
+      },
+      "captions": {
+        "ossuary": "Die Jakobskapelle birgt die Überreste des ältesten Sakralbaus in Bratislava aus dem 11. Jahrhundert. Zur Kapelle gehört auch ein Beinhaus mit Tausenden menschlichen Knochen und Schädeln."
+      }
+    },
+    "circleCloses": {
+      "title": "Und der Kreis schließt sich…",
+      "body": [
+        "Wir haben mit orangefarbenen Kreisen begonnen, die zeigen sollten, was dieser Raum sein kann. Heute müssen wir diese Vorstellung nicht mehr auf den Asphalt malen.",
+        "Die erste große Etappe ist fertig, die zweite Etappe, der Kamenné-Platz, liegt noch vor uns. Von nun an wird der wichtigste Teil des Lebendigen Platzes das sein, was sich weder planen noch bauen lässt: **das Leben, das Sie ihm geben.**"
+      ],
+      "caption": "Ein hochwertiges Stadtzentrum ist kein Luxus. Es ist der Standard, den Bratislava verdient.",
+      "credits": "Für Unterlagen und Fotografien danken wir den Bürgervereinen Aliancia Stará tržnica und Bratislavské rožky, dem Fotografen Marek Velček, dem Städtischen Denkmalschutzinstitut und dem Archiv der Stadt Bratislava."
+    }
+  }
+}

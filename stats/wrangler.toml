@@ -1,0 +1,15 @@
+name = "zive-namestie-stats"
+pages_build_output_dir = "public"
+compatibility_date = "2026-10-01"
+
+# Same database as the main site; this project only reads aggregates from it.
+[[d1_databases]]
+binding = "DB"
+database_name = "zive-namestie-stats"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+# Admin-only: put a Cloudflare Access application in front of this project, then set
+# these from the Access app (Pages → Settings → Variables). Without them every request gets 403.
+[vars]
+ACCESS_TEAM_DOMAIN = "REPLACE_WITH_TEAM.cloudflareaccess.com"
+ACCESS_AUD = "REPLACE_WITH_ACCESS_APP_AUD_TAG"

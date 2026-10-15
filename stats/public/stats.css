@@ -1,0 +1,22 @@
+:root { --bg:#f4f6ea; --card:#fff; --ink:#13261b; --muted:#5b6b5f; --line:#dfe5cf; --accent:#1f3d2b; --accent2:#9ab84a; color-scheme: light dark; }
+@media (prefers-color-scheme: dark) { :root { --bg:#0f1c14; --card:#162a1e; --ink:#e8efd6; --muted:#a3b39f; --line:#2a4433; --accent:#d6e3a0; --accent2:#6f8f34; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+header, main { max-width: 56rem; margin: 0 auto; padding: 1rem; }
+h1 { font-size: 1.4rem; margin: .5rem 0 1rem; } h1 span { color: var(--muted); font-weight: 500; }
+h2 { font-size: 1rem; margin: 0 0 .75rem; }
+nav { display:flex; flex-wrap:wrap; gap:.4rem; }
+nav button { font:inherit; font-size:.9rem; min-height:2.75rem; padding:0 1rem; border-radius:999px; border:1.5px solid var(--line); background:var(--card); color:var(--ink); cursor:pointer; }
+nav button[aria-pressed="true"] { background:var(--accent); color:var(--bg); border-color:var(--accent); }
+.tiles { display:grid; grid-template-columns:repeat(auto-fit, minmax(10rem,1fr)); gap:.75rem; margin-bottom:.75rem; }
+.tile, .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:1rem; }
+.card { margin-bottom:.75rem; }
+.tile p { margin:0; } .tile__label { color:var(--muted); font-size:.85rem; } .tile__value { font-size:2rem; font-weight:700; font-variant-numeric:tabular-nums; }
+.chart svg { width:100%; height:auto; overflow:visible; }
+.chart .bar { fill:var(--accent); } .chart .bar:hover { fill:var(--accent2); }
+.chart .grid { stroke:var(--line); } .chart text { fill:var(--muted); font-size:11px; }
+table { width:100%; border-collapse:collapse; font-variant-numeric:tabular-nums; }
+th, td { text-align:left; padding:.5rem .25rem; border-bottom:1px solid var(--line); } th { color:var(--muted); font-weight:500; font-size:.85rem; }
+td:not(:first-child), th:not(:first-child) { text-align:right; }
+.note { color:var(--muted); font-size:.85rem; }
+.empty { color:var(--muted); padding:2rem 0; text-align:center; }
