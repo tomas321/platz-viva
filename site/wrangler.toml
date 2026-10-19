@@ -5,4 +5,4 @@ compatibility_date = "2026-10-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "zive-namestie-stats"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "9f0e2890-8d40-46d4-82c7-47595633573e"
